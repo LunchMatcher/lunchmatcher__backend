@@ -1,0 +1,288 @@
+Cron running on time : 2015-07-08 00:00:01 
+
+
+Cron running on time : 2015-07-08 00:15:01 
+
+
+Cron running on time : 2015-07-08 00:30:02 
+
+
+Cron running on time : 2015-07-08 00:45:02 
+
+
+Cron running on time : 2015-07-08 01:00:02 
+
+
+Cron running on time : 2015-07-08 01:15:01 
+
+
+Cron running on time : 2015-07-08 01:30:02 
+
+
+Cron running on time : 2015-07-08 01:45:01 
+
+
+Cron running on time : 2015-07-08 02:00:01 
+
+
+Cron running on time : 2015-07-08 02:15:01 
+
+
+Cron running on time : 2015-07-08 02:30:02 
+
+
+Cron running on time : 2015-07-08 02:45:01 
+
+
+Cron running on time : 2015-07-08 03:00:01 
+
+
+Cron running on time : 2015-07-08 03:15:01 
+
+
+Cron running on time : 2015-07-08 03:30:01 
+
+
+Cron running on time : 2015-07-08 03:45:02 
+
+
+Cron running on time : 2015-07-08 04:00:02 
+
+
+Cron running on time : 2015-07-08 04:15:01 
+
+
+Cron running on time : 2015-07-08 04:30:02 
+
+
+Cron running on time : 2015-07-08 04:45:01 
+
+
+Cron running on time : 2015-07-08 05:00:01 
+
+
+Cron running on time : 2015-07-08 05:15:01 
+
+
+Cron running on time : 2015-07-08 05:30:02 
+
+
+Cron running on time : 2015-07-08 05:45:01 
+
+
+Cron running on time : 2015-07-08 06:00:02 
+
+
+Cron running on time : 2015-07-08 06:15:01 
+
+
+Cron running on time : 2015-07-08 06:30:02 
+
+
+Cron running on time : 2015-07-08 06:45:01 
+
+
+Cron running on time : 2015-07-08 07:00:01 
+
+
+Cron running on time : 2015-07-08 07:15:02 
+
+
+Cron running on time : 2015-07-08 07:30:02 
+
+
+Cron running on time : 2015-07-08 07:45:01 
+
+
+Cron running on time : 2015-07-08 08:00:01 
+
+
+Cron running on time : 2015-07-08 08:15:02 
+
+
+Cron running on time : 2015-07-08 08:30:06 
+
+
+Cron running on time : 2015-07-08 08:45:01 
+
+
+Cron running on time : 2015-07-08 09:00:01 
+
+
+Cron running on time : 2015-07-08 09:15:01 
+
+
+Cron running on time : 2015-07-08 09:30:03 
+
+
+Cron running on time : 2015-07-08 09:45:01 
+
+
+Cron running on time : 2015-07-08 10:00:02 
+
+
+Cron running on time : 2015-07-08 10:15:01 
+
+
+Cron running on time : 2015-07-08 10:30:02 
+
+
+Cron running on time : 2015-07-08 10:45:01 
+
+
+Cron running on time : 2015-07-08 11:00:07 
+
+
+Cron running on time : 2015-07-08 11:15:07 
+
+
+Cron running on time : 2015-07-08 11:30:02 
+
+
+Cron running on time : 2015-07-08 11:45:01 
+
+
+Cron running on time : 2015-07-08 12:00:01 
+
+
+Cron running on time : 2015-07-08 12:15:01 
+
+
+Cron running on time : 2015-07-08 12:30:02 
+
+
+Cron running on time : 2015-07-08 12:45:01 
+
+
+Cron running on time : 2015-07-08 13:00:02 
+
+
+Cron running on time : 2015-07-08 13:15:01 
+
+
+Cron running on time : 2015-07-08 13:30:02 
+
+
+Cron running on time : 2015-07-08 13:45:01 
+
+
+Cron running on time : 2015-07-08 14:00:02 
+
+
+Cron running on time : 2015-07-08 14:15:01 
+
+
+Cron running on time : 2015-07-08 14:30:02 
+
+
+Cron running on time : 2015-07-08 14:45:01 
+
+
+Cron running on time : 2015-07-08 15:00:02 
+
+
+Cron running on time : 2015-07-08 15:15:01 
+
+
+Cron running on time : 2015-07-08 15:30:01 
+
+
+Cron running on time : 2015-07-08 15:45:01 
+
+
+Cron running on time : 2015-07-08 16:00:01 
+
+
+Cron running on time : 2015-07-08 16:15:01 
+
+
+Cron running on time : 2015-07-08 16:30:01 
+
+
+Cron running on time : 2015-07-08 16:45:02 
+
+
+Cron running on time : 2015-07-08 17:00:03 
+ Device List :-  User:89 :- APA91bFp7rfumRJghG8Hdf3hAEcC6p5V3E1rbnSC4tA_2Vqcr5dF11iIWpfBZwO3GNV3-lf5GhVBkDlLCqAGqJ0FHSpm03UoAvV53DDlfpPRRmFu4Z3I_et9kVDl1gPW7LlaW15TEYzq ,  User:59 :- APA91bHwmh3QBA5qzNW9wv6zd7xYvYVzWOYGhGzMHYndxBrco_V-zmfcF0aIBNkx35yzdRFqYLRsoKosk-45S_oEWzsyGT76Pjbr409Q4HKcthZpF82WsgAoTjAsvtJEW5zdJPQ8991-DF8x88N49KcRLVdFncPUnQ ,  User:65 :- APA91bEfmm3hUTuQY57c8xmWGcxf9QzdQ-hSGqpfLFew-dVQlDtP8Fx7m860FhOqeB0QF4mcE78VaKtsvlKjzzjQfyHT2k5yQmCh-HWC71wD28teVys9dbYHECthohCmon4PhILkE7xm ,  User:58 :- APA91bFCxlC-FKz0AiwcqZh9K71uyZJ3lFqyMs5qLMq78YV3mOFLYr48PC31VHn85k9q3q4xIcAGQ8qEUjbTnArs8vzWT6WcCtdWq0Bj4hmvCLlj5alY-EPhjddeYoGBGFSF698gR04c , 
+
+Cron running on time : 2015-07-08 17:15:02 
+ Device List :-  User:65 :- APA91bEfmm3hUTuQY57c8xmWGcxf9QzdQ-hSGqpfLFew-dVQlDtP8Fx7m860FhOqeB0QF4mcE78VaKtsvlKjzzjQfyHT2k5yQmCh-HWC71wD28teVys9dbYHECthohCmon4PhILkE7xm ,  User:55 :- APA91bGUkYzt4mYrZVH-bpyKWestT2mP-JLpLAN_ENVM9gePWWEFVakhzaGSxff2EdTzWT-9AB1vz3CFVc5N9f67--rP2DnjP8Py5aeGhZla5AY1S8lrUYiCTbrSgRbSMEUA_R0tCxP2 , 
+
+Cron running on time : 2015-07-08 17:30:03 
+ Device List :-  User:58 :- APA91bFCxlC-FKz0AiwcqZh9K71uyZJ3lFqyMs5qLMq78YV3mOFLYr48PC31VHn85k9q3q4xIcAGQ8qEUjbTnArs8vzWT6WcCtdWq0Bj4hmvCLlj5alY-EPhjddeYoGBGFSF698gR04c ,  User:55 :- APA91bGUkYzt4mYrZVH-bpyKWestT2mP-JLpLAN_ENVM9gePWWEFVakhzaGSxff2EdTzWT-9AB1vz3CFVc5N9f67--rP2DnjP8Py5aeGhZla5AY1S8lrUYiCTbrSgRbSMEUA_R0tCxP2 , 
+
+Cron running on time : 2015-07-08 17:45:03 
+
+
+Cron running on time : 2015-07-08 18:00:02 
+
+
+Cron running on time : 2015-07-08 18:15:02 
+
+
+Cron running on time : 2015-07-08 18:30:02 
+
+
+Cron running on time : 2015-07-08 18:45:02 
+
+
+Cron running on time : 2015-07-08 19:00:02 
+
+
+Cron running on time : 2015-07-08 19:15:02 
+
+
+Cron running on time : 2015-07-08 19:30:02 
+
+
+Cron running on time : 2015-07-08 19:45:02 
+
+
+Cron running on time : 2015-07-08 20:00:07 
+
+
+Cron running on time : 2015-07-08 20:15:02 
+
+
+Cron running on time : 2015-07-08 20:30:01 
+
+
+Cron running on time : 2015-07-08 20:45:07 
+
+
+Cron running on time : 2015-07-08 21:00:02 
+
+
+Cron running on time : 2015-07-08 21:15:02 
+
+
+Cron running on time : 2015-07-08 21:30:02 
+
+
+Cron running on time : 2015-07-08 21:45:06 
+
+
+Cron running on time : 2015-07-08 22:00:01 
+
+
+Cron running on time : 2015-07-08 22:15:01 
+
+
+Cron running on time : 2015-07-08 22:30:01 
+
+
+Cron running on time : 2015-07-08 22:45:02 
+
+
+Cron running on time : 2015-07-08 23:00:07 
+
+
+Cron running on time : 2015-07-08 23:15:06 
+
+
+Cron running on time : 2015-07-08 23:30:02 
+
+
+Cron running on time : 2015-07-08 23:45:01 
+
+

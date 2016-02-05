@@ -1,0 +1,231 @@
+Cron running on time : 2015-06-24 00:00:06 
+
+
+Cron running on time : 2015-06-24 00:15:01 
+
+
+Cron running on time : 2015-06-24 00:30:01 
+
+
+Cron running on time : 2015-06-24 00:45:02 
+
+
+Cron running on time : 2015-06-24 01:00:02 
+
+
+Cron running on time : 2015-06-24 01:15:01 
+
+
+Cron running on time : 2015-06-24 01:30:01 
+
+
+Cron running on time : 2015-06-24 01:45:01 
+
+
+Cron running on time : 2015-06-24 02:00:01 
+
+
+Cron running on time : 2015-06-24 02:15:01 
+
+
+Cron running on time : 2015-06-24 02:30:02 
+
+
+Cron running on time : 2015-06-24 02:45:01 
+
+
+Cron running on time : 2015-06-24 03:00:01 
+
+
+Cron running on time : 2015-06-24 03:15:01 
+
+
+Cron running on time : 2015-06-24 03:30:02 
+
+
+Cron running on time : 2015-06-24 03:45:01 
+
+
+Cron running on time : 2015-06-24 04:00:01 
+
+
+Cron running on time : 2015-06-24 04:15:01 
+
+
+Cron running on time : 2015-06-24 04:30:02 
+
+
+Cron running on time : 2015-06-24 04:45:01 
+
+
+Cron running on time : 2015-06-24 05:00:01 
+
+
+Cron running on time : 2015-06-24 05:15:01 
+
+
+Cron running on time : 2015-06-24 05:30:02 
+
+
+Cron running on time : 2015-06-24 05:45:01 
+
+
+Cron running on time : 2015-06-24 06:00:01 
+
+
+Cron running on time : 2015-06-24 06:15:01 
+
+
+Cron running on time : 2015-06-24 06:30:02 
+
+
+Cron running on time : 2015-06-24 06:45:01 
+
+
+Cron running on time : 2015-06-24 07:00:01 
+
+
+Cron running on time : 2015-06-24 07:15:01 
+
+
+Cron running on time : 2015-06-24 07:30:01 
+
+
+Cron running on time : 2015-06-24 07:45:02 
+
+
+Cron running on time : 2015-06-24 08:00:01 
+
+
+Cron running on time : 2015-06-24 08:15:01 
+
+
+Cron running on time : 2015-06-24 08:30:02 
+
+
+Cron running on time : 2015-06-24 08:45:01 
+
+
+Cron running on time : 2015-06-24 09:00:01 
+
+
+Cron running on time : 2015-06-24 09:15:01 
+
+
+Cron running on time : 2015-06-24 09:30:02 
+
+
+Cron running on time : 2015-06-24 09:45:01 
+
+
+Cron running on time : 2015-06-24 10:00:01 
+
+
+Cron running on time : 2015-06-24 10:15:01 
+
+
+Cron running on time : 2015-06-24 10:30:02 
+
+
+Cron running on time : 2015-06-24 10:45:01 
+
+
+Cron running on time : 2015-06-24 11:00:04 
+ Device List :-  User:93 :- APA91bG5l7fm5bk7Pp_Ws2Pko5XtR-yCYJTUIQ-6O3sULP_QnOQzL3q2iCJ2_21-5GvyTsn-r3b5w4qbBt9hMVV2mVdDpnEKsahYACNLiCFydLgvVjQb3g4iX8g4uP9f0H9kHd7PwP5MefH5dxFFDr5_S_SZTHomdA ,  User:92 :- APA91bEW7HE1k_C_Hm6zE5g8nEtV-KuOJFunzRUlf7CBr7W92_mPkRYfcdZfYmzhpfeU9cKTHgqA04QMuR6JYzPHEbr_itwM0JwgWWC1QHpJK1xiWOkszao2OCHYdblKUExrj4UxV4IADbDf8MAv2kAonTWgwmeLKQ ,  User:56 :- APA91bGPC3hIEaVARUdcSfnr4hn9Rhi-zZtdliTMRJ1_B7daEzcAwx7UCgeuFPrgSSfeWGPtM6893RoSOvHvCXhkhbZJUlmCYun32zqP068uGKtlEkplazbjnXpLgFECVWmLKZnVeZ9wPWmd7Fj-jPtWYrwUFwGD5w ,  User:67 :- APA91bEr-6rkTFUcGDf3tseJJrt6bpHohMEhMiib_Q82wwOTC8mIqpxDVjuioQMLYHdADjK53ObjwvpgfrB0G2ckmfPOgf5RD8FSjHqw7eB7d79yKQkKwBXwl1VgD5fcqy8aVFJR2FDDzojqFS2KYXK_rHrPezKJ2Q ,  User:55 :- APA91bGgyNYlMHXO0E1PlZuCBRCPWdVtLbI2HpEYwPzQnsQfVo76g5AW07pargV9cYE9iwt8MKUbQFoCXzh7EoBwhOOCUXBuO1ZB4dEwDaJFVYLMm79X-Mp27eT84w4oiZMFCc0I73v8sKQYQH8nX_QSlmHlp1fvUw ,  User:71 :- APA91bF823J7lWrLx4gVWISlpoLEFf_VrMqdY3CwK-hJDL3kbCYZJ30JVIOYIcK220kkgTtddWDG0M9c8lia17Ta_xVIutDImWHqQoBrSSB-dNHBe1jCVx6DefXbgO314RVE-pHO0u_PYTGqe-RrX8cMnGKZyJ-yOw , 
+
+Cron running on time : 2015-06-24 11:15:03 
+ Device List :-  User:89 :- APA91bH74kEx2P4zFXISutqdFYByt7tVNAtgHXrXn1O5-G3Y__AiceqtOHFPvwquscvvIkAjiXkclrcVlchtjhWwGc_rtsb1fa907LbB-zIB8V5_BiTVzJqVLhcIzfFWBhIcOj8_XLVzOOEwlk-m44_iaUf3vAbGhQ ,  User:67 :- APA91bEr-6rkTFUcGDf3tseJJrt6bpHohMEhMiib_Q82wwOTC8mIqpxDVjuioQMLYHdADjK53ObjwvpgfrB0G2ckmfPOgf5RD8FSjHqw7eB7d79yKQkKwBXwl1VgD5fcqy8aVFJR2FDDzojqFS2KYXK_rHrPezKJ2Q ,  User:56 :- APA91bGPC3hIEaVARUdcSfnr4hn9Rhi-zZtdliTMRJ1_B7daEzcAwx7UCgeuFPrgSSfeWGPtM6893RoSOvHvCXhkhbZJUlmCYun32zqP068uGKtlEkplazbjnXpLgFECVWmLKZnVeZ9wPWmd7Fj-jPtWYrwUFwGD5w ,  User:55 :- APA91bGgyNYlMHXO0E1PlZuCBRCPWdVtLbI2HpEYwPzQnsQfVo76g5AW07pargV9cYE9iwt8MKUbQFoCXzh7EoBwhOOCUXBuO1ZB4dEwDaJFVYLMm79X-Mp27eT84w4oiZMFCc0I73v8sKQYQH8nX_QSlmHlp1fvUw , 
+
+Cron running on time : 2015-06-24 11:30:03 
+ Device List :-  User:89 :- APA91bH74kEx2P4zFXISutqdFYByt7tVNAtgHXrXn1O5-G3Y__AiceqtOHFPvwquscvvIkAjiXkclrcVlchtjhWwGc_rtsb1fa907LbB-zIB8V5_BiTVzJqVLhcIzfFWBhIcOj8_XLVzOOEwlk-m44_iaUf3vAbGhQ ,  User:58 :- APA91bGhvTOzs8ejr8qEwmJ4pDSG4OssYJkF4RK6HGQhCIYjLCsySWs84HNfrejfeAS7Lg3DdiAlxF80Q4p32cgpzYaYQ4bA2kAu-O3YpI9h7av9X8pvPT4eEltP2cA38SXQ_DKy_rXDzUhgkrJfKEPJOuSuujx9Qg ,  User:56 :- APA91bGPC3hIEaVARUdcSfnr4hn9Rhi-zZtdliTMRJ1_B7daEzcAwx7UCgeuFPrgSSfeWGPtM6893RoSOvHvCXhkhbZJUlmCYun32zqP068uGKtlEkplazbjnXpLgFECVWmLKZnVeZ9wPWmd7Fj-jPtWYrwUFwGD5w ,  User:71 :- APA91bF823J7lWrLx4gVWISlpoLEFf_VrMqdY3CwK-hJDL3kbCYZJ30JVIOYIcK220kkgTtddWDG0M9c8lia17Ta_xVIutDImWHqQoBrSSB-dNHBe1jCVx6DefXbgO314RVE-pHO0u_PYTGqe-RrX8cMnGKZyJ-yOw ,  User:67 :- APA91bEr-6rkTFUcGDf3tseJJrt6bpHohMEhMiib_Q82wwOTC8mIqpxDVjuioQMLYHdADjK53ObjwvpgfrB0G2ckmfPOgf5RD8FSjHqw7eB7d79yKQkKwBXwl1VgD5fcqy8aVFJR2FDDzojqFS2KYXK_rHrPezKJ2Q ,  User:55 :- APA91bGgyNYlMHXO0E1PlZuCBRCPWdVtLbI2HpEYwPzQnsQfVo76g5AW07pargV9cYE9iwt8MKUbQFoCXzh7EoBwhOOCUXBuO1ZB4dEwDaJFVYLMm79X-Mp27eT84w4oiZMFCc0I73v8sKQYQH8nX_QSlmHlp1fvUw , 
+
+Cron running on time : 2015-06-24 11:45:02 
+
+
+Cron running on time : 2015-06-24 12:00:02 
+
+
+Cron running on time : 2015-06-24 12:15:02 
+
+
+Cron running on time : 2015-06-24 12:30:02 
+
+
+Cron running on time : 2015-06-24 12:45:01 
+
+
+Cron running on time : 2015-06-24 13:00:02 
+
+
+Cron running on time : 2015-06-24 13:15:01 
+
+
+Cron running on time : 2015-06-24 13:30:01 
+
+
+Cron running on time : 2015-06-24 13:45:01 
+
+
+Cron running on time : 2015-06-24 14:00:02 
+
+
+Cron running on time : 2015-06-24 14:15:01 
+
+
+Cron running on time : 2015-06-24 14:30:01 
+
+
+Cron running on time : 2015-06-24 14:45:01 
+
+
+Cron running on time : 2015-06-24 15:00:01 
+
+
+Cron running on time : 2015-06-24 15:15:01 
+
+
+Cron running on time : 2015-06-24 15:30:02 
+
+
+Cron running on time : 2015-06-24 15:45:02 
+
+
+Cron running on time : 2015-06-24 16:00:02 
+
+
+Cron running on time : 2015-06-24 16:15:06 
+
+
+Cron running on time : 2015-06-24 16:30:01 
+
+
+Cron running on time : 2015-06-24 16:45:02 
+
+
+Cron running on time : 2015-06-24 17:00:06 
+
+
+Cron running on time : 2015-06-24 17:15:01 
+
+
+Cron running on time : 2015-06-24 17:30:01 
+
+
+Cron running on time : 2015-06-24 17:45:01 
+
+
+Cron running on time : 2015-06-24 18:00:02 
+
+
+Cron running on time : 2015-06-24 18:15:01 
+
+
+Cron running on time : 2015-06-24 18:30:01 
+
+
+Cron running on time : 2015-06-24 18:45:01 
+
+
+Cron running on time : 2015-06-24 19:00:01 
+
+

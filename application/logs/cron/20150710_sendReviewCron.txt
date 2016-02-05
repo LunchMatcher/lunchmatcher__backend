@@ -1,0 +1,97 @@
+Cron running on time : 2015-07-10 00:00:01 
+ Device List :-  User:58 :- APA91bE1Mw2O0_rzOuejtGpQ4I2BlPCZI7PA-3EfvzrTdTZ0uN9F8rO4OT2czduXQi-Ve7LvncB6esP6SgilxAUkX83k0qLuD9CoRuwYu9Nz8O9Xlt-NPcKQIJkxz6Jh6kHFVMnrsrTK ,  User:55 :- APA91bGUkYzt4mYrZVH-bpyKWestT2mP-JLpLAN_ENVM9gePWWEFVakhzaGSxff2EdTzWT-9AB1vz3CFVc5N9f67--rP2DnjP8Py5aeGhZla5AY1S8lrUYiCTbrSgRbSMEUA_R0tCxP2 , 
+ \nCron running on time : 2015-07-10 00:30:01 
+
+ \nCron running on time : 2015-07-10 01:00:01 
+
+ \nCron running on time : 2015-07-10 01:30:02 
+
+ \nCron running on time : 2015-07-10 02:00:06 
+
+ \nCron running on time : 2015-07-10 02:30:01 
+
+ \nCron running on time : 2015-07-10 03:00:02 
+
+ \nCron running on time : 2015-07-10 03:30:01 
+
+ \nCron running on time : 2015-07-10 04:00:02 
+
+ \nCron running on time : 2015-07-10 04:30:01 
+
+ \nCron running on time : 2015-07-10 05:00:01 
+
+ \nCron running on time : 2015-07-10 05:30:01 
+
+ \nCron running on time : 2015-07-10 06:00:01 
+
+ \nCron running on time : 2015-07-10 06:30:01 
+
+ \nCron running on time : 2015-07-10 07:00:01 
+
+ \nCron running on time : 2015-07-10 07:30:01 
+
+ \nCron running on time : 2015-07-10 08:00:01 
+
+ \nCron running on time : 2015-07-10 08:30:01 
+
+ \nCron running on time : 2015-07-10 09:00:01 
+
+ \nCron running on time : 2015-07-10 09:30:01 
+
+ \nCron running on time : 2015-07-10 10:00:01 
+
+ \nCron running on time : 2015-07-10 10:30:01 
+
+ \nCron running on time : 2015-07-10 11:00:01 
+
+ \nCron running on time : 2015-07-10 11:30:01 
+
+ \nCron running on time : 2015-07-10 12:00:01 
+
+ \nCron running on time : 2015-07-10 12:30:01 
+
+ \nCron running on time : 2015-07-10 13:00:01 
+
+ \nCron running on time : 2015-07-10 13:30:01 
+
+ \nCron running on time : 2015-07-10 14:00:01 
+
+ \nCron running on time : 2015-07-10 14:30:01 
+
+ \nCron running on time : 2015-07-10 15:00:02 
+
+ \nCron running on time : 2015-07-10 15:30:02 
+
+ \nCron running on time : 2015-07-10 16:00:03 
+ Device List :-  User:89 :- APA91bEQb7SdIQ2gQPu8cEP2TgN8HP8HVJxx6sLYKKFuCfXo_h3tngFAQRK-VoDtJkso1QXGbwSkGGcBqCOBv_HJ2Fo9ma6JF_HWx-p14mDuugJcIvIadJj33UoHXgzISREYXAmrxuoM ,  User:59 :- APA91bG9VqPuBpwf_zCgLqS19D0_p58_HB86wv0x0x0k3Y4ebc7nU0RdrQWQGWeW2EJOasBLXp5ZUZQ4oksv2eLhwPMgSP5Hb_11A5M0LMSf-srI05BYiap9MoQrNkICvGjel4d9dh7A , 
+ \nCron running on time : 2015-07-10 16:30:01 
+
+ \nCron running on time : 2015-07-10 17:00:02 
+
+ \nCron running on time : 2015-07-10 17:30:01 
+
+ \nCron running on time : 2015-07-10 18:00:02 
+
+ \nCron running on time : 2015-07-10 18:30:01 
+
+ \nCron running on time : 2015-07-10 19:00:02 
+
+ \nCron running on time : 2015-07-10 19:30:01 
+
+ \nCron running on time : 2015-07-10 20:00:01 
+
+ \nCron running on time : 2015-07-10 20:30:01 
+
+ \nCron running on time : 2015-07-10 21:00:02 
+
+ \nCron running on time : 2015-07-10 21:30:01 
+
+ \nCron running on time : 2015-07-10 22:00:01 
+
+ \nCron running on time : 2015-07-10 22:30:01 
+
+ \nCron running on time : 2015-07-10 23:00:01 
+
+ \nCron running on time : 2015-07-10 23:30:02 
+
+ \n

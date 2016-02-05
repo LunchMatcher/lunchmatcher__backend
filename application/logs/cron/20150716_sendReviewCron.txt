@@ -1,0 +1,97 @@
+Cron running on time : 2015-07-16 00:00:01 
+
+ \nCron running on time : 2015-07-16 00:30:02 
+
+ \nCron running on time : 2015-07-16 01:00:02 
+
+ \nCron running on time : 2015-07-16 01:30:01 
+
+ \nCron running on time : 2015-07-16 02:00:01 
+
+ \nCron running on time : 2015-07-16 02:30:01 
+
+ \nCron running on time : 2015-07-16 03:00:01 
+
+ \nCron running on time : 2015-07-16 03:30:01 
+
+ \nCron running on time : 2015-07-16 04:00:01 
+
+ \nCron running on time : 2015-07-16 04:30:01 
+
+ \nCron running on time : 2015-07-16 05:00:01 
+
+ \nCron running on time : 2015-07-16 05:30:02 
+
+ \nCron running on time : 2015-07-16 06:00:01 
+
+ \nCron running on time : 2015-07-16 06:30:01 
+
+ \nCron running on time : 2015-07-16 07:00:01 
+
+ \nCron running on time : 2015-07-16 07:30:01 
+
+ \nCron running on time : 2015-07-16 08:00:01 
+
+ \nCron running on time : 2015-07-16 08:30:01 
+
+ \nCron running on time : 2015-07-16 09:00:01 
+
+ \nCron running on time : 2015-07-16 09:30:02 
+
+ \nCron running on time : 2015-07-16 10:00:02 
+
+ \nCron running on time : 2015-07-16 10:30:02 
+
+ \nCron running on time : 2015-07-16 11:00:01 
+
+ \nCron running on time : 2015-07-16 11:30:01 
+
+ \nCron running on time : 2015-07-16 12:00:01 
+
+ \nCron running on time : 2015-07-16 12:30:01 
+
+ \nCron running on time : 2015-07-16 13:00:01 
+
+ \nCron running on time : 2015-07-16 13:30:01 
+
+ \nCron running on time : 2015-07-16 14:00:02 
+ Device List :-  User:89 :- APA91bGRCMS0aZPv1dqI5vwWWzUSMw-qElWVgxD9j_T-SGqaLuUb8qkJx2eUlqpBzWKGEF-uwRAhIzrciQjFhSvqb0bSwrk95BxrHdSX2jvahAg0wqhZ73DCglwHiQtngrW8tVv9_Syk ,  User:55 :- APA91bE5nSfbDQjqaR3DB_iy4SZD5saH0M1oisv7t5Ki7Mk6UsSYjd5cqqE2f08SxXZO4M4lklYWz1KwteQqr-vPySoSNfA5lgRNeGlCux7qP1L_9OEhqTkvlI34G7AjqGupwLlTjbdq , 
+ \nCron running on time : 2015-07-16 14:30:01 
+
+ \nCron running on time : 2015-07-16 15:00:01 
+
+ \nCron running on time : 2015-07-16 15:30:01 
+
+ \nCron running on time : 2015-07-16 16:00:01 
+
+ \nCron running on time : 2015-07-16 16:30:01 
+
+ \nCron running on time : 2015-07-16 17:00:01 
+
+ \nCron running on time : 2015-07-16 17:30:01 
+
+ \nCron running on time : 2015-07-16 18:00:01 
+
+ \nCron running on time : 2015-07-16 18:30:01 
+
+ \nCron running on time : 2015-07-16 19:00:02 
+
+ \nCron running on time : 2015-07-16 19:30:01 
+
+ \nCron running on time : 2015-07-16 20:00:06 
+
+ \nCron running on time : 2015-07-16 20:30:02 
+
+ \nCron running on time : 2015-07-16 21:00:06 
+
+ \nCron running on time : 2015-07-16 21:30:01 
+
+ \nCron running on time : 2015-07-16 22:00:06 
+
+ \nCron running on time : 2015-07-16 22:30:01 
+
+ \nCron running on time : 2015-07-16 23:00:01 
+
+ \nCron running on time : 2015-07-16 23:30:01 
+
+ \n

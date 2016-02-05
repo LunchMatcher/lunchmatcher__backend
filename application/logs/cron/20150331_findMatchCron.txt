@@ -1,0 +1,147 @@
+Cron running on time : 2015-03-31 11:30:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 11:45:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 12:00:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 12:15:02 
+ Device List :- User:329:-  , User:328:-  , 
+
+Cron running on time : 2015-03-31 12:30:02 
+ Device List :- User:331:-  , User:330:-  , 
+
+Cron running on time : 2015-03-31 12:45:01 
+ Device List :- User:334:-  , User:332:-  , 
+
+Cron running on time : 2015-03-31 13:00:06 
+ Device List :- User:335:-  , User:332:-  , 
+
+Cron running on time : 2015-03-31 13:15:02 
+ Device List :- User:335:-  , User:334:-  , 
+
+Cron running on time : 2015-03-31 13:30:06 
+ Device List :- 
+
+Cron running on time : 2015-03-31 13:45:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 14:15:01 
+ Device List :- User:337:-  , User:336:-  , 
+
+Cron running on time : 2015-03-31 14:30:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 14:45:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 15:00:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 15:15:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 15:30:02 
+ Device List :- 
+
+Cron running on time : 2015-03-31 15:45:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 16:00:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 16:15:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 16:30:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 16:45:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 17:00:02 
+ Device List :- User:340:-  , User:332:-  , User:341:-  , User:334:-  , 
+
+Cron running on time : 2015-03-31 17:15:02 
+ Device List :- User:341:-  , User:332:-  , User:340:-  , User:334:-  , 
+
+Cron running on time : 2015-03-31 17:30:02 
+ Device List :- User:341:-  , User:340:-  , 
+
+Cron running on time : 2015-03-31 17:45:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 18:00:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 18:15:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 18:30:02 
+ Device List :- 
+
+Cron running on time : 2015-03-31 18:45:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 19:00:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 19:15:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 19:30:02 
+ Device List :- 
+
+Cron running on time : 2015-03-31 19:45:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 20:00:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 20:15:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 20:30:02 
+ Device List :- 
+
+Cron running on time : 2015-03-31 20:45:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 21:00:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 21:15:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 21:30:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 21:45:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 22:00:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 22:15:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 22:30:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 22:45:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 23:00:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 23:15:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 23:30:01 
+ Device List :- 
+
+Cron running on time : 2015-03-31 23:45:01 
+ Device List :- 
+

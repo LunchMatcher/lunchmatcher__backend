@@ -1,0 +1,231 @@
+Cron running on time : 2015-07-23 00:00:01 
+
+
+Cron running on time : 2015-07-23 00:15:06 
+
+
+Cron running on time : 2015-07-23 00:30:01 
+
+
+Cron running on time : 2015-07-23 00:45:02 
+
+
+Cron running on time : 2015-07-23 01:00:01 
+
+
+Cron running on time : 2015-07-23 01:15:01 
+
+
+Cron running on time : 2015-07-23 01:30:01 
+
+
+Cron running on time : 2015-07-23 01:45:01 
+
+
+Cron running on time : 2015-07-23 02:00:02 
+
+
+Cron running on time : 2015-07-23 02:15:01 
+
+
+Cron running on time : 2015-07-23 02:30:01 
+
+
+Cron running on time : 2015-07-23 02:45:01 
+
+
+Cron running on time : 2015-07-23 03:00:02 
+
+
+Cron running on time : 2015-07-23 03:15:01 
+
+
+Cron running on time : 2015-07-23 03:30:01 
+
+
+Cron running on time : 2015-07-23 03:45:01 
+
+
+Cron running on time : 2015-07-23 04:00:02 
+
+
+Cron running on time : 2015-07-23 04:15:01 
+
+
+Cron running on time : 2015-07-23 04:30:01 
+
+
+Cron running on time : 2015-07-23 04:45:01 
+
+
+Cron running on time : 2015-07-23 05:00:02 
+
+
+Cron running on time : 2015-07-23 05:15:01 
+
+
+Cron running on time : 2015-07-23 05:30:01 
+
+
+Cron running on time : 2015-07-23 05:45:01 
+
+
+Cron running on time : 2015-07-23 06:00:01 
+
+
+Cron running on time : 2015-07-23 06:15:01 
+
+
+Cron running on time : 2015-07-23 06:30:01 
+
+
+Cron running on time : 2015-07-23 06:45:01 
+
+
+Cron running on time : 2015-07-23 07:00:02 
+
+
+Cron running on time : 2015-07-23 07:15:01 
+
+
+Cron running on time : 2015-07-23 07:30:01 
+
+
+Cron running on time : 2015-07-23 07:45:06 
+
+
+Cron running on time : 2015-07-23 08:00:06 
+
+
+Cron running on time : 2015-07-23 08:15:01 
+
+
+Cron running on time : 2015-07-23 08:30:01 
+
+
+Cron running on time : 2015-07-23 08:45:01 
+
+
+Cron running on time : 2015-07-23 09:00:03 
+ Device List :-  User:71 :- APA91bFUg-RmqtjrRF4dUYx9fFAzzpFDp0jOJCUKPOLLwhOkwpQ3kpPHV4fDqoD9B2ECtusEjbyJ-iuDhXaU2FM4VYItB6S_W1E-KsOqhsSNvAAKjqcuizVS3zEcmLRU4GLf_o_9W6fz ,  User:67 :- APA91bHMOSqnE0uwFvRQgpCdA6izpoCWaOaRHgkqe9NdwjP8qm_2swBkQOsbPiA5Si1PjwJlqFRHuznvWayzKEsdACSpm_XH0brWDCFa7cFtudRZ6E7W5GPwXzVe4r5v7UzJgADKbcYz ,  User:62 :- APA91bHV-KHZGE0eyG46BsB-6dODam600DLEcSxqmNABaa7goo2VWCBKn5Nh7j4FnxSO57og27sB1B4jtn1vx2k9cUAoFV7WJaxPr8ieS2KlL3MFO7Gt-x4P37zwqMrgtq8EgKjnh8TL ,  User:93 :- APA91bFdQJ-S-S-66oolXUr_yZYjAEJkOEeVrr9d_X1Btrl4uS7itpEHUDyPpIERQO8HGnM_D8Wwis0rmh86Y3c0fNI-8kW7ZCHnpoHR6YaOMLP4TUmZP9MO2U0kaY6td6WkiNzwdid- ,  User:59 :- APA91bHKQXR0LogiMPfp6ezsliZWLs9SCs_fai3a7MwWRvzlIkKDpdVdYvH_Zuf4Es51YF5sDOmmXvC_3Qd4Z9WqUXXVAfNoILtSDfFCWyo8xheJujIa-H-UmNH_M4z6vIp15OPj1A5T ,  User:89 :- APA91bFEMhZ7tXJKNT6dfNEZkCw57JLRy8A3ds2H3ZS8egp4iU3B64dv6TD7G7oCJY8hwsft_gN7YgG6zIvfraR5h4E3HiGiL8FPYQZ5CnZ1U0xDYzm0Q5LWZff-vYzeDTibyqDMtoUu , 
+
+Cron running on time : 2015-07-23 09:15:05 
+ Device List :-  User:71 :- APA91bFUg-RmqtjrRF4dUYx9fFAzzpFDp0jOJCUKPOLLwhOkwpQ3kpPHV4fDqoD9B2ECtusEjbyJ-iuDhXaU2FM4VYItB6S_W1E-KsOqhsSNvAAKjqcuizVS3zEcmLRU4GLf_o_9W6fz ,  User:62 :- APA91bHV-KHZGE0eyG46BsB-6dODam600DLEcSxqmNABaa7goo2VWCBKn5Nh7j4FnxSO57og27sB1B4jtn1vx2k9cUAoFV7WJaxPr8ieS2KlL3MFO7Gt-x4P37zwqMrgtq8EgKjnh8TL ,  User:93 :- APA91bFdQJ-S-S-66oolXUr_yZYjAEJkOEeVrr9d_X1Btrl4uS7itpEHUDyPpIERQO8HGnM_D8Wwis0rmh86Y3c0fNI-8kW7ZCHnpoHR6YaOMLP4TUmZP9MO2U0kaY6td6WkiNzwdid- ,  User:59 :- APA91bHKQXR0LogiMPfp6ezsliZWLs9SCs_fai3a7MwWRvzlIkKDpdVdYvH_Zuf4Es51YF5sDOmmXvC_3Qd4Z9WqUXXVAfNoILtSDfFCWyo8xheJujIa-H-UmNH_M4z6vIp15OPj1A5T ,  User:67 :- APA91bHMOSqnE0uwFvRQgpCdA6izpoCWaOaRHgkqe9NdwjP8qm_2swBkQOsbPiA5Si1PjwJlqFRHuznvWayzKEsdACSpm_XH0brWDCFa7cFtudRZ6E7W5GPwXzVe4r5v7UzJgADKbcYz ,  User:89 :- APA91bFEMhZ7tXJKNT6dfNEZkCw57JLRy8A3ds2H3ZS8egp4iU3B64dv6TD7G7oCJY8hwsft_gN7YgG6zIvfraR5h4E3HiGiL8FPYQZ5CnZ1U0xDYzm0Q5LWZff-vYzeDTibyqDMtoUu , 
+
+Cron running on time : 2015-07-23 09:30:04 
+ Device List :-  User:71 :- APA91bFUg-RmqtjrRF4dUYx9fFAzzpFDp0jOJCUKPOLLwhOkwpQ3kpPHV4fDqoD9B2ECtusEjbyJ-iuDhXaU2FM4VYItB6S_W1E-KsOqhsSNvAAKjqcuizVS3zEcmLRU4GLf_o_9W6fz ,  User:65 :- APA91bGsf3Kr8l-ZxEPIkcB-v4Rsa6ymKeJxxXNPtABIKaHfPHJKgoINgK1rvUQeH0WLT7JlJ6JGjboRQEVxonvSOPLnXlR3cUhxKDauSFskqfwqoDr6TyLj69G7Lb_UscFduRDaD6wK ,  User:58 :- APA91bE7LsTNQPYqjpByfhTzO_qHJuCOYhMHpyc2nT3l9Twym-imb-Pm4WjElSCjgosHUByZfZJ2DspiiPjeNDwi_C7OdSQoLEE7xQ2ajZdzAwugF_ahz3_zZx7jhhnG5cItIbaR_ZAd ,  User:93 :- APA91bFdQJ-S-S-66oolXUr_yZYjAEJkOEeVrr9d_X1Btrl4uS7itpEHUDyPpIERQO8HGnM_D8Wwis0rmh86Y3c0fNI-8kW7ZCHnpoHR6YaOMLP4TUmZP9MO2U0kaY6td6WkiNzwdid- ,  User:59 :- APA91bHKQXR0LogiMPfp6ezsliZWLs9SCs_fai3a7MwWRvzlIkKDpdVdYvH_Zuf4Es51YF5sDOmmXvC_3Qd4Z9WqUXXVAfNoILtSDfFCWyo8xheJujIa-H-UmNH_M4z6vIp15OPj1A5T ,  User:67 :- APA91bHMOSqnE0uwFvRQgpCdA6izpoCWaOaRHgkqe9NdwjP8qm_2swBkQOsbPiA5Si1PjwJlqFRHuznvWayzKEsdACSpm_XH0brWDCFa7cFtudRZ6E7W5GPwXzVe4r5v7UzJgADKbcYz , 
+
+Cron running on time : 2015-07-23 09:45:04 
+ Device List :-  User:71 :- APA91bFUg-RmqtjrRF4dUYx9fFAzzpFDp0jOJCUKPOLLwhOkwpQ3kpPHV4fDqoD9B2ECtusEjbyJ-iuDhXaU2FM4VYItB6S_W1E-KsOqhsSNvAAKjqcuizVS3zEcmLRU4GLf_o_9W6fz ,  User:58 :- APA91bE7LsTNQPYqjpByfhTzO_qHJuCOYhMHpyc2nT3l9Twym-imb-Pm4WjElSCjgosHUByZfZJ2DspiiPjeNDwi_C7OdSQoLEE7xQ2ajZdzAwugF_ahz3_zZx7jhhnG5cItIbaR_ZAd ,  User:65 :- APA91bGsf3Kr8l-ZxEPIkcB-v4Rsa6ymKeJxxXNPtABIKaHfPHJKgoINgK1rvUQeH0WLT7JlJ6JGjboRQEVxonvSOPLnXlR3cUhxKDauSFskqfwqoDr6TyLj69G7Lb_UscFduRDaD6wK ,  User:62 :- APA91bHV-KHZGE0eyG46BsB-6dODam600DLEcSxqmNABaa7goo2VWCBKn5Nh7j4FnxSO57og27sB1B4jtn1vx2k9cUAoFV7WJaxPr8ieS2KlL3MFO7Gt-x4P37zwqMrgtq8EgKjnh8TL ,  User:93 :- APA91bFdQJ-S-S-66oolXUr_yZYjAEJkOEeVrr9d_X1Btrl4uS7itpEHUDyPpIERQO8HGnM_D8Wwis0rmh86Y3c0fNI-8kW7ZCHnpoHR6YaOMLP4TUmZP9MO2U0kaY6td6WkiNzwdid- ,  User:67 :- APA91bHMOSqnE0uwFvRQgpCdA6izpoCWaOaRHgkqe9NdwjP8qm_2swBkQOsbPiA5Si1PjwJlqFRHuznvWayzKEsdACSpm_XH0brWDCFa7cFtudRZ6E7W5GPwXzVe4r5v7UzJgADKbcYz ,  User:59 :- APA91bHKQXR0LogiMPfp6ezsliZWLs9SCs_fai3a7MwWRvzlIkKDpdVdYvH_Zuf4Es51YF5sDOmmXvC_3Qd4Z9WqUXXVAfNoILtSDfFCWyo8xheJujIa-H-UmNH_M4z6vIp15OPj1A5T ,  User:90 :- 968fd22124410c15e0cfeae43abc47c0ed3af594675e28fbb611f93388f413b6 , 
+
+Cron running on time : 2015-07-23 10:00:04 
+ Device List :-  User:71 :- APA91bFUg-RmqtjrRF4dUYx9fFAzzpFDp0jOJCUKPOLLwhOkwpQ3kpPHV4fDqoD9B2ECtusEjbyJ-iuDhXaU2FM4VYItB6S_W1E-KsOqhsSNvAAKjqcuizVS3zEcmLRU4GLf_o_9W6fz ,  User:89 :- APA91bFEMhZ7tXJKNT6dfNEZkCw57JLRy8A3ds2H3ZS8egp4iU3B64dv6TD7G7oCJY8hwsft_gN7YgG6zIvfraR5h4E3HiGiL8FPYQZ5CnZ1U0xDYzm0Q5LWZff-vYzeDTibyqDMtoUu ,  User:60 :- APA91bG6rv7EXrcjz9kHB6yxqpOvT4VslM4Ntj61p2glAbDvke3hdVx_NDOqUW0hILjhJRVZpzQurD8_RTasfOh8gPDlFWfWQf7ovFcInLqx9Ll9cbsleJApYfNC795hSeRSTFAwJF89 ,  User:65 :- APA91bGsf3Kr8l-ZxEPIkcB-v4Rsa6ymKeJxxXNPtABIKaHfPHJKgoINgK1rvUQeH0WLT7JlJ6JGjboRQEVxonvSOPLnXlR3cUhxKDauSFskqfwqoDr6TyLj69G7Lb_UscFduRDaD6wK ,  User:58 :- APA91bE7LsTNQPYqjpByfhTzO_qHJuCOYhMHpyc2nT3l9Twym-imb-Pm4WjElSCjgosHUByZfZJ2DspiiPjeNDwi_C7OdSQoLEE7xQ2ajZdzAwugF_ahz3_zZx7jhhnG5cItIbaR_ZAd ,  User:59 :- APA91bHKQXR0LogiMPfp6ezsliZWLs9SCs_fai3a7MwWRvzlIkKDpdVdYvH_Zuf4Es51YF5sDOmmXvC_3Qd4Z9WqUXXVAfNoILtSDfFCWyo8xheJujIa-H-UmNH_M4z6vIp15OPj1A5T ,  User:93 :- APA91bFdQJ-S-S-66oolXUr_yZYjAEJkOEeVrr9d_X1Btrl4uS7itpEHUDyPpIERQO8HGnM_D8Wwis0rmh86Y3c0fNI-8kW7ZCHnpoHR6YaOMLP4TUmZP9MO2U0kaY6td6WkiNzwdid- ,  User:67 :- APA91bHMOSqnE0uwFvRQgpCdA6izpoCWaOaRHgkqe9NdwjP8qm_2swBkQOsbPiA5Si1PjwJlqFRHuznvWayzKEsdACSpm_XH0brWDCFa7cFtudRZ6E7W5GPwXzVe4r5v7UzJgADKbcYz , 
+
+Cron running on time : 2015-07-23 10:15:03 
+ Device List :-  User:71 :- APA91bFUg-RmqtjrRF4dUYx9fFAzzpFDp0jOJCUKPOLLwhOkwpQ3kpPHV4fDqoD9B2ECtusEjbyJ-iuDhXaU2FM4VYItB6S_W1E-KsOqhsSNvAAKjqcuizVS3zEcmLRU4GLf_o_9W6fz ,  User:93 :- APA91bFdQJ-S-S-66oolXUr_yZYjAEJkOEeVrr9d_X1Btrl4uS7itpEHUDyPpIERQO8HGnM_D8Wwis0rmh86Y3c0fNI-8kW7ZCHnpoHR6YaOMLP4TUmZP9MO2U0kaY6td6WkiNzwdid- ,  User:65 :- APA91bGsf3Kr8l-ZxEPIkcB-v4Rsa6ymKeJxxXNPtABIKaHfPHJKgoINgK1rvUQeH0WLT7JlJ6JGjboRQEVxonvSOPLnXlR3cUhxKDauSFskqfwqoDr6TyLj69G7Lb_UscFduRDaD6wK ,  User:89 :- APA91bFEMhZ7tXJKNT6dfNEZkCw57JLRy8A3ds2H3ZS8egp4iU3B64dv6TD7G7oCJY8hwsft_gN7YgG6zIvfraR5h4E3HiGiL8FPYQZ5CnZ1U0xDYzm0Q5LWZff-vYzeDTibyqDMtoUu ,  User:62 :- APA91bHV-KHZGE0eyG46BsB-6dODam600DLEcSxqmNABaa7goo2VWCBKn5Nh7j4FnxSO57og27sB1B4jtn1vx2k9cUAoFV7WJaxPr8ieS2KlL3MFO7Gt-x4P37zwqMrgtq8EgKjnh8TL ,  User:60 :- APA91bG6rv7EXrcjz9kHB6yxqpOvT4VslM4Ntj61p2glAbDvke3hdVx_NDOqUW0hILjhJRVZpzQurD8_RTasfOh8gPDlFWfWQf7ovFcInLqx9Ll9cbsleJApYfNC795hSeRSTFAwJF89 ,  User:58 :- APA91bE7LsTNQPYqjpByfhTzO_qHJuCOYhMHpyc2nT3l9Twym-imb-Pm4WjElSCjgosHUByZfZJ2DspiiPjeNDwi_C7OdSQoLEE7xQ2ajZdzAwugF_ahz3_zZx7jhhnG5cItIbaR_ZAd ,  User:90 :- 968fd22124410c15e0cfeae43abc47c0ed3af594675e28fbb611f93388f413b6 , 
+
+Cron running on time : 2015-07-23 10:30:13 
+ Device List :-  User:71 :- APA91bFUg-RmqtjrRF4dUYx9fFAzzpFDp0jOJCUKPOLLwhOkwpQ3kpPHV4fDqoD9B2ECtusEjbyJ-iuDhXaU2FM4VYItB6S_W1E-KsOqhsSNvAAKjqcuizVS3zEcmLRU4GLf_o_9W6fz ,  User:59 :- APA91bHKQXR0LogiMPfp6ezsliZWLs9SCs_fai3a7MwWRvzlIkKDpdVdYvH_Zuf4Es51YF5sDOmmXvC_3Qd4Z9WqUXXVAfNoILtSDfFCWyo8xheJujIa-H-UmNH_M4z6vIp15OPj1A5T ,  User:65 :- APA91bGsf3Kr8l-ZxEPIkcB-v4Rsa6ymKeJxxXNPtABIKaHfPHJKgoINgK1rvUQeH0WLT7JlJ6JGjboRQEVxonvSOPLnXlR3cUhxKDauSFskqfwqoDr6TyLj69G7Lb_UscFduRDaD6wK ,  User:67 :- APA91bHMOSqnE0uwFvRQgpCdA6izpoCWaOaRHgkqe9NdwjP8qm_2swBkQOsbPiA5Si1PjwJlqFRHuznvWayzKEsdACSpm_XH0brWDCFa7cFtudRZ6E7W5GPwXzVe4r5v7UzJgADKbcYz ,  User:60 :- APA91bG6rv7EXrcjz9kHB6yxqpOvT4VslM4Ntj61p2glAbDvke3hdVx_NDOqUW0hILjhJRVZpzQurD8_RTasfOh8gPDlFWfWQf7ovFcInLqx9Ll9cbsleJApYfNC795hSeRSTFAwJF89 ,  User:89 :- APA91bFEMhZ7tXJKNT6dfNEZkCw57JLRy8A3ds2H3ZS8egp4iU3B64dv6TD7G7oCJY8hwsft_gN7YgG6zIvfraR5h4E3HiGiL8FPYQZ5CnZ1U0xDYzm0Q5LWZff-vYzeDTibyqDMtoUu ,  User:93 :- APA91bFdQJ-S-S-66oolXUr_yZYjAEJkOEeVrr9d_X1Btrl4uS7itpEHUDyPpIERQO8HGnM_D8Wwis0rmh86Y3c0fNI-8kW7ZCHnpoHR6YaOMLP4TUmZP9MO2U0kaY6td6WkiNzwdid- ,  User:90 :- 968fd22124410c15e0cfeae43abc47c0ed3af594675e28fbb611f93388f413b6 , 
+
+Cron running on time : 2015-07-23 10:45:03 
+ Device List :-  User:71 :- APA91bFUg-RmqtjrRF4dUYx9fFAzzpFDp0jOJCUKPOLLwhOkwpQ3kpPHV4fDqoD9B2ECtusEjbyJ-iuDhXaU2FM4VYItB6S_W1E-KsOqhsSNvAAKjqcuizVS3zEcmLRU4GLf_o_9W6fz ,  User:90 :- 968fd22124410c15e0cfeae43abc47c0ed3af594675e28fbb611f93388f413b6 ,  User:65 :- APA91bGsf3Kr8l-ZxEPIkcB-v4Rsa6ymKeJxxXNPtABIKaHfPHJKgoINgK1rvUQeH0WLT7JlJ6JGjboRQEVxonvSOPLnXlR3cUhxKDauSFskqfwqoDr6TyLj69G7Lb_UscFduRDaD6wK ,  User:58 :- APA91bE7LsTNQPYqjpByfhTzO_qHJuCOYhMHpyc2nT3l9Twym-imb-Pm4WjElSCjgosHUByZfZJ2DspiiPjeNDwi_C7OdSQoLEE7xQ2ajZdzAwugF_ahz3_zZx7jhhnG5cItIbaR_ZAd ,  User:60 :- APA91bG6rv7EXrcjz9kHB6yxqpOvT4VslM4Ntj61p2glAbDvke3hdVx_NDOqUW0hILjhJRVZpzQurD8_RTasfOh8gPDlFWfWQf7ovFcInLqx9Ll9cbsleJApYfNC795hSeRSTFAwJF89 ,  User:59 :- APA91bHKQXR0LogiMPfp6ezsliZWLs9SCs_fai3a7MwWRvzlIkKDpdVdYvH_Zuf4Es51YF5sDOmmXvC_3Qd4Z9WqUXXVAfNoILtSDfFCWyo8xheJujIa-H-UmNH_M4z6vIp15OPj1A5T ,  User:67 :- APA91bHMOSqnE0uwFvRQgpCdA6izpoCWaOaRHgkqe9NdwjP8qm_2swBkQOsbPiA5Si1PjwJlqFRHuznvWayzKEsdACSpm_XH0brWDCFa7cFtudRZ6E7W5GPwXzVe4r5v7UzJgADKbcYz ,  User:93 :- APA91bFdQJ-S-S-66oolXUr_yZYjAEJkOEeVrr9d_X1Btrl4uS7itpEHUDyPpIERQO8HGnM_D8Wwis0rmh86Y3c0fNI-8kW7ZCHnpoHR6YaOMLP4TUmZP9MO2U0kaY6td6WkiNzwdid- , 
+
+Cron running on time : 2015-07-23 11:00:03 
+ Device List :-  User:60 :- APA91bG6rv7EXrcjz9kHB6yxqpOvT4VslM4Ntj61p2glAbDvke3hdVx_NDOqUW0hILjhJRVZpzQurD8_RTasfOh8gPDlFWfWQf7ovFcInLqx9Ll9cbsleJApYfNC795hSeRSTFAwJF89 ,  User:67 :- APA91bHMOSqnE0uwFvRQgpCdA6izpoCWaOaRHgkqe9NdwjP8qm_2swBkQOsbPiA5Si1PjwJlqFRHuznvWayzKEsdACSpm_XH0brWDCFa7cFtudRZ6E7W5GPwXzVe4r5v7UzJgADKbcYz ,  User:65 :- APA91bGsf3Kr8l-ZxEPIkcB-v4Rsa6ymKeJxxXNPtABIKaHfPHJKgoINgK1rvUQeH0WLT7JlJ6JGjboRQEVxonvSOPLnXlR3cUhxKDauSFskqfwqoDr6TyLj69G7Lb_UscFduRDaD6wK ,  User:59 :- APA91bHKQXR0LogiMPfp6ezsliZWLs9SCs_fai3a7MwWRvzlIkKDpdVdYvH_Zuf4Es51YF5sDOmmXvC_3Qd4Z9WqUXXVAfNoILtSDfFCWyo8xheJujIa-H-UmNH_M4z6vIp15OPj1A5T ,  User:89 :- APA91bFEMhZ7tXJKNT6dfNEZkCw57JLRy8A3ds2H3ZS8egp4iU3B64dv6TD7G7oCJY8hwsft_gN7YgG6zIvfraR5h4E3HiGiL8FPYQZ5CnZ1U0xDYzm0Q5LWZff-vYzeDTibyqDMtoUu ,  User:58 :- APA91bE7LsTNQPYqjpByfhTzO_qHJuCOYhMHpyc2nT3l9Twym-imb-Pm4WjElSCjgosHUByZfZJ2DspiiPjeNDwi_C7OdSQoLEE7xQ2ajZdzAwugF_ahz3_zZx7jhhnG5cItIbaR_ZAd ,  User:93 :- APA91bFdQJ-S-S-66oolXUr_yZYjAEJkOEeVrr9d_X1Btrl4uS7itpEHUDyPpIERQO8HGnM_D8Wwis0rmh86Y3c0fNI-8kW7ZCHnpoHR6YaOMLP4TUmZP9MO2U0kaY6td6WkiNzwdid- ,  User:90 :- 968fd22124410c15e0cfeae43abc47c0ed3af594675e28fbb611f93388f413b6 , 
+
+Cron running on time : 2015-07-23 11:15:03 
+ Device List :-  User:60 :- APA91bG6rv7EXrcjz9kHB6yxqpOvT4VslM4Ntj61p2glAbDvke3hdVx_NDOqUW0hILjhJRVZpzQurD8_RTasfOh8gPDlFWfWQf7ovFcInLqx9Ll9cbsleJApYfNC795hSeRSTFAwJF89 ,  User:93 :- APA91bFdQJ-S-S-66oolXUr_yZYjAEJkOEeVrr9d_X1Btrl4uS7itpEHUDyPpIERQO8HGnM_D8Wwis0rmh86Y3c0fNI-8kW7ZCHnpoHR6YaOMLP4TUmZP9MO2U0kaY6td6WkiNzwdid- ,  User:65 :- APA91bGsf3Kr8l-ZxEPIkcB-v4Rsa6ymKeJxxXNPtABIKaHfPHJKgoINgK1rvUQeH0WLT7JlJ6JGjboRQEVxonvSOPLnXlR3cUhxKDauSFskqfwqoDr6TyLj69G7Lb_UscFduRDaD6wK ,  User:90 :- 968fd22124410c15e0cfeae43abc47c0ed3af594675e28fbb611f93388f413b6 ,  User:67 :- APA91bHMOSqnE0uwFvRQgpCdA6izpoCWaOaRHgkqe9NdwjP8qm_2swBkQOsbPiA5Si1PjwJlqFRHuznvWayzKEsdACSpm_XH0brWDCFa7cFtudRZ6E7W5GPwXzVe4r5v7UzJgADKbcYz ,  User:58 :- APA91bE7LsTNQPYqjpByfhTzO_qHJuCOYhMHpyc2nT3l9Twym-imb-Pm4WjElSCjgosHUByZfZJ2DspiiPjeNDwi_C7OdSQoLEE7xQ2ajZdzAwugF_ahz3_zZx7jhhnG5cItIbaR_ZAd , 
+
+Cron running on time : 2015-07-23 11:30:04 
+ Device List :-  User:60 :- APA91bG6rv7EXrcjz9kHB6yxqpOvT4VslM4Ntj61p2glAbDvke3hdVx_NDOqUW0hILjhJRVZpzQurD8_RTasfOh8gPDlFWfWQf7ovFcInLqx9Ll9cbsleJApYfNC795hSeRSTFAwJF89 ,  User:93 :- APA91bFdQJ-S-S-66oolXUr_yZYjAEJkOEeVrr9d_X1Btrl4uS7itpEHUDyPpIERQO8HGnM_D8Wwis0rmh86Y3c0fNI-8kW7ZCHnpoHR6YaOMLP4TUmZP9MO2U0kaY6td6WkiNzwdid- , 
+
+Cron running on time : 2015-07-23 11:45:03 
+ Device List :-  User:60 :- APA91bG6rv7EXrcjz9kHB6yxqpOvT4VslM4Ntj61p2glAbDvke3hdVx_NDOqUW0hILjhJRVZpzQurD8_RTasfOh8gPDlFWfWQf7ovFcInLqx9Ll9cbsleJApYfNC795hSeRSTFAwJF89 ,  User:58 :- APA91bE7LsTNQPYqjpByfhTzO_qHJuCOYhMHpyc2nT3l9Twym-imb-Pm4WjElSCjgosHUByZfZJ2DspiiPjeNDwi_C7OdSQoLEE7xQ2ajZdzAwugF_ahz3_zZx7jhhnG5cItIbaR_ZAd ,  User:89 :- APA91bFEMhZ7tXJKNT6dfNEZkCw57JLRy8A3ds2H3ZS8egp4iU3B64dv6TD7G7oCJY8hwsft_gN7YgG6zIvfraR5h4E3HiGiL8FPYQZ5CnZ1U0xDYzm0Q5LWZff-vYzeDTibyqDMtoUu ,  User:93 :- APA91bFdQJ-S-S-66oolXUr_yZYjAEJkOEeVrr9d_X1Btrl4uS7itpEHUDyPpIERQO8HGnM_D8Wwis0rmh86Y3c0fNI-8kW7ZCHnpoHR6YaOMLP4TUmZP9MO2U0kaY6td6WkiNzwdid- , 
+
+Cron running on time : 2015-07-23 12:00:01 
+
+
+Cron running on time : 2015-07-23 12:15:02 
+
+
+Cron running on time : 2015-07-23 12:30:02 
+
+
+Cron running on time : 2015-07-23 12:45:01 
+
+
+Cron running on time : 2015-07-23 13:00:01 
+
+
+Cron running on time : 2015-07-23 15:07:28 
+
+
+Cron running on time : 2015-07-23 15:15:01 
+
+
+Cron running on time : 2015-07-23 15:30:02 
+
+
+Cron running on time : 2015-07-23 15:45:01 
+
+
+Cron running on time : 2015-07-23 16:00:02 
+
+
+Cron running on time : 2015-07-23 16:15:01 
+
+
+Cron running on time : 2015-07-23 16:30:01 
+
+
+Cron running on time : 2015-07-23 16:45:01 
+
+
+Cron running on time : 2015-07-23 17:00:01 
+
+
+Cron running on time : 2015-07-23 17:15:01 
+
+
+Cron running on time : 2015-07-23 17:30:02 
+
+
+Cron running on time : 2015-07-23 17:45:06 
+
+
+Cron running on time : 2015-07-23 18:00:02 
+
+
+Cron running on time : 2015-07-23 18:15:02 
+ Device List :-  User:71 :- APA91bFUg-RmqtjrRF4dUYx9fFAzzpFDp0jOJCUKPOLLwhOkwpQ3kpPHV4fDqoD9B2ECtusEjbyJ-iuDhXaU2FM4VYItB6S_W1E-KsOqhsSNvAAKjqcuizVS3zEcmLRU4GLf_o_9W6fz ,  User:55 :- APA91bEuQU6WdJ1zMJjKnUYi3i4r6nhsoxL3VYnEFbBCeTJc0QSHmdayyNdzmALKF3iSdpRVQEyje2LTPUNNPMDrhVejClWAkWgEEvhkzmTijual8gPaI6HbqxBJXpLcrhRFDDuhxxV- , 
+
+Cron running on time : 2015-07-23 18:30:01 
+
+
+Cron running on time : 2015-07-23 18:45:01 
+
+
+Cron running on time : 2015-07-23 19:00:02 
+
+
+Cron running on time : 2015-07-23 19:15:01 
+
+
+Cron running on time : 2015-07-23 19:30:01 
+
+
+Cron running on time : 2015-07-23 19:45:02 
+
+
+Cron running on time : 2015-07-23 20:00:01 
+
+
+Cron running on time : 2015-07-23 20:15:02 
+
+
+Cron running on time : 2015-07-23 20:30:02 
+
+
+Cron running on time : 2015-07-23 20:45:01 
+
+

@@ -1,0 +1,97 @@
+Cron running on time : 2015-06-03 00:00:01 
+ Device List :-  User:55 :- APA91bGp1d4LwQ2z9MfrAHrO4VDg8u7XdxzZQ86-BTYmXEUjr8CPYjmacT5OEU6xcOhgRn8pTcL5QxFmQA0axTCWE39NAal1OxaKY_2OGbHodiGGQ3i-ahgR9t1vToKMIvIYAvfWPLt0mJVhxorZWmzwWmE-5LZRtQ-DH2Gfa09hOnaIiFIU-6k ,  User:65 :- APA91bFeO0nbFMvMrSCFt0Nur7Lb5MtKw6tYi6hVERoQcuBJatWZbTBSbZjQlS-T_VKyGtAtr8JlXi3LCPjVvQIiw_bJpwjvWFS4u545fZFRRpyywgjZsfQFcGdCH5C1c5hp9VAvcl6UoU1khDNsq03zGOlBSG4cKbFq9WqAA6E3ZzBX3QDNyb0 , 
+ \nCron running on time : 2015-06-03 00:30:01 
+
+ \nCron running on time : 2015-06-03 01:00:02 
+
+ \nCron running on time : 2015-06-03 01:30:01 
+
+ \nCron running on time : 2015-06-03 02:00:02 
+
+ \nCron running on time : 2015-06-03 02:30:01 
+
+ \nCron running on time : 2015-06-03 03:00:01 
+
+ \nCron running on time : 2015-06-03 03:30:02 
+
+ \nCron running on time : 2015-06-03 04:00:01 
+
+ \nCron running on time : 2015-06-03 04:30:01 
+
+ \nCron running on time : 2015-06-03 05:00:01 
+
+ \nCron running on time : 2015-06-03 05:30:01 
+
+ \nCron running on time : 2015-06-03 06:00:01 
+
+ \nCron running on time : 2015-06-03 06:30:01 
+
+ \nCron running on time : 2015-06-03 07:00:02 
+
+ \nCron running on time : 2015-06-03 07:30:01 
+
+ \nCron running on time : 2015-06-03 08:00:01 
+
+ \nCron running on time : 2015-06-03 08:30:01 
+
+ \nCron running on time : 2015-06-03 09:00:02 
+
+ \nCron running on time : 2015-06-03 09:30:01 
+
+ \nCron running on time : 2015-06-03 10:00:01 
+
+ \nCron running on time : 2015-06-03 10:30:01 
+
+ \nCron running on time : 2015-06-03 11:00:01 
+
+ \nCron running on time : 2015-06-03 11:30:01 
+
+ \nCron running on time : 2015-06-03 12:00:02 
+
+ \nCron running on time : 2015-06-03 12:30:01 
+
+ \nCron running on time : 2015-06-03 13:00:01 
+
+ \nCron running on time : 2015-06-03 13:30:01 
+
+ \nCron running on time : 2015-06-03 14:00:01 
+
+ \nCron running on time : 2015-06-03 14:30:01 
+
+ \nCron running on time : 2015-06-03 15:00:01 
+
+ \nCron running on time : 2015-06-03 15:30:01 
+
+ \nCron running on time : 2015-06-03 16:00:01 
+
+ \nCron running on time : 2015-06-03 16:30:01 
+
+ \nCron running on time : 2015-06-03 17:00:06 
+
+ \nCron running on time : 2015-06-03 17:30:01 
+
+ \nCron running on time : 2015-06-03 18:00:01 
+
+ \nCron running on time : 2015-06-03 18:30:06 
+
+ \nCron running on time : 2015-06-03 19:00:01 
+
+ \nCron running on time : 2015-06-03 19:30:01 
+
+ \nCron running on time : 2015-06-03 20:00:01 
+ Device List :-  User:90 :- 0 ,  User:68 :- 0 , 
+ \nCron running on time : 2015-06-03 20:30:01 
+
+ \nCron running on time : 2015-06-03 21:00:07 
+
+ \nCron running on time : 2015-06-03 21:30:06 
+
+ \nCron running on time : 2015-06-03 22:00:01 
+
+ \nCron running on time : 2015-06-03 22:30:07 
+
+ \nCron running on time : 2015-06-03 23:00:01 
+
+ \nCron running on time : 2015-06-03 23:30:01 
+
+ \n

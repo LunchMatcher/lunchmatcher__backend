@@ -1,0 +1,97 @@
+Cron running on time : 2015-04-21 00:00:01 
+
+ \nCron running on time : 2015-04-21 00:30:01 
+
+ \nCron running on time : 2015-04-21 01:00:02 
+
+ \nCron running on time : 2015-04-21 01:30:01 
+
+ \nCron running on time : 2015-04-21 02:00:01 
+
+ \nCron running on time : 2015-04-21 02:30:01 
+
+ \nCron running on time : 2015-04-21 03:00:01 
+
+ \nCron running on time : 2015-04-21 03:30:02 
+
+ \nCron running on time : 2015-04-21 04:00:01 
+
+ \nCron running on time : 2015-04-21 04:30:01 
+
+ \nCron running on time : 2015-04-21 05:00:01 
+
+ \nCron running on time : 2015-04-21 05:30:01 
+
+ \nCron running on time : 2015-04-21 06:00:01 
+
+ \nCron running on time : 2015-04-21 06:30:02 
+
+ \nCron running on time : 2015-04-21 07:00:02 
+
+ \nCron running on time : 2015-04-21 07:30:01 
+
+ \nCron running on time : 2015-04-21 08:00:02 
+
+ \nCron running on time : 2015-04-21 08:30:01 
+
+ \nCron running on time : 2015-04-21 09:00:02 
+
+ \nCron running on time : 2015-04-21 09:30:06 
+
+ \nCron running on time : 2015-04-21 10:00:01 
+
+ \nCron running on time : 2015-04-21 10:30:01 
+
+ \nCron running on time : 2015-04-21 11:00:01 
+
+ \nCron running on time : 2015-04-21 11:30:02 
+
+ \nCron running on time : 2015-04-21 12:00:01 
+
+ \nCron running on time : 2015-04-21 12:30:01 
+
+ \nCron running on time : 2015-04-21 13:00:02 
+
+ \nCron running on time : 2015-04-21 13:30:01 
+
+ \nCron running on time : 2015-04-21 14:00:01 
+
+ \nCron running on time : 2015-04-21 14:30:02 
+
+ \nCron running on time : 2015-04-21 15:00:01 
+
+ \nCron running on time : 2015-04-21 15:30:01 
+
+ \nCron running on time : 2015-04-21 16:00:07 
+ Device List :-  User:54 :- APA91bEO0-r8k5KZp2HhdWeB1yrZEGVDVoa5HLqmdp4GAcArLfrRixU88FXi0rXKzSVTkEDd523dOEBmauZkH5D9MfQBlewk7aejwIAw1aVHsEjHD8aAa3Q-6G6zKifqs7IbGvzuIlRm86JdlAKbBt6tjj0MBO7KdaIHj-OcHGVi29nJrLzjWkM ,  User:55 :- APA91bFwJsTr4D0H5dl_VyfSdhrA9GAfUPbh-Qop_kHTEYy6DzRzaRT5ElUXyceoNin6dYjoB1UqidHq-N7i5ZgEhGHPEw5ge2uglE6x_uTofJqzqPq7EdQSuLQrzzB34Z_Ck7pS1U1rP3Hx5NuTu4vxuGtv8Ggf4kaoiIj_IC2fB1-YPJxss_E , 
+ \nCron running on time : 2015-04-21 16:30:01 
+
+ \nCron running on time : 2015-04-21 17:00:01 
+
+ \nCron running on time : 2015-04-21 17:30:02 
+
+ \nCron running on time : 2015-04-21 18:00:01 
+
+ \nCron running on time : 2015-04-21 18:30:01 
+
+ \nCron running on time : 2015-04-21 19:00:01 
+
+ \nCron running on time : 2015-04-21 19:30:02 
+
+ \nCron running on time : 2015-04-21 20:00:01 
+
+ \nCron running on time : 2015-04-21 20:30:01 
+
+ \nCron running on time : 2015-04-21 21:00:01 
+
+ \nCron running on time : 2015-04-21 21:30:01 
+
+ \nCron running on time : 2015-04-21 22:00:01 
+
+ \nCron running on time : 2015-04-21 22:30:01 
+
+ \nCron running on time : 2015-04-21 23:00:01 
+
+ \nCron running on time : 2015-04-21 23:30:01 
+
+ \n

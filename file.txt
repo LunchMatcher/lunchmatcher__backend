@@ -1,0 +1,69 @@
+Array
+(
+    [emailAddress] => feelfree219@gmail.com
+    [firstName] => test
+    [formattedName] => test dennis
+    [headline] => Junior BA
+    [id] => z7wpb2GBcD
+    [industry] => Biotechnology
+    [lastName] => dennis
+    [location] => Array
+        (
+            [name] => India
+        )
+
+    [pictureUrl] => https://media.licdn.com/mpr/mprx/0_1p_n0PV5LQuOujOlxpR4NXBk8kDiEy8gn4cnMbvk33fCfu2gVSRcNGZkikjruujpVSR4BXBXHFDGdZJps7QEcbVHSFD_dZegs7QvpQfLQ64fimP39OrRy-3qDtcP8Z0u12GsUq-QhJV
+    [pictureUrls] => Array
+        (
+            [_total] => 1
+            [values] => Array
+                (
+                    [0] => https://media.licdn.com/mpr/mprx/0_xm-MX2WyznTh_e7jWIfjAndVFB3u9HCZOxfVqtHVb6h2bXCjObfyNQexQBD35XaOObfjKzdVvP32qJ0OOL_91cWpGP3uqJPYOL_UQ2vyBWK5qmGcOTPs2gkoQ3
+                )
+
+        )
+
+    [positions] => Array
+        (
+            [_total] => 1
+            [values] => Array
+                (
+                    [0] => Array
+                        (
+                            [company] => Array
+                                (
+                                    [id] => 147091
+                                    [industry] => Pharmaceuticals
+                                    [name] => NewAgeSys, Inc
+                                    [size] => 201-500 employees
+                                    [ticker] => 
+                                    [type] => Privately Held
+                                )
+
+                            [id] => 651761050
+                            [isCurrent] => 1
+                            [startDate] => Array
+                                (
+                                    [month] => 4
+                                    [year] => 2012
+                                )
+
+                            [summary] => Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                            [title] => Junior BA
+                        )
+
+                )
+
+        )
+
+    [siteStandardProfileRequest] => Array
+        (
+            [url] => https://www.linkedin.com/profile/view?id=411147018&authType=name&authToken=eOv2&trk=api*a4272041*s4333271*
+        )
+
+    [profile_url] => https://www.linkedin.com/profile/view?id=411147018&authType=name&authToken=eOv2&trk=api*a4272041*s4333271*
+    [accesToken] => AQV051j-M1hwR5I32_poOR57MNT2pJ2jad2QYUrsN7KUzHzzOmZBOBRED_XAB37-sC7zUMKfCFEamR0YWx9oH0_s2r_xSlL_0f2fC-s_KsCMd-AAW4xjMS3gfMiwuwNdE8GI0xv9E5_d2VMwHCwnJRuqWW8bWrmgXKCl0DIM-ZA1ekovcQo
+    [deviceToken] => 2b283e5ceedfbd420d3ed9524c28941b542cc65ae158f7502024c20cfe4aa2b0
+    [devicePlatform] => iOS
+    [deviceId] => 8E1509E0-A847-45E2-A5D4-3EF23775F1DB
+)

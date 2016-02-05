@@ -1,0 +1,97 @@
+Cron running on time : 2015-07-02 00:00:06 
+
+ \nCron running on time : 2015-07-02 00:30:02 
+
+ \nCron running on time : 2015-07-02 01:00:01 
+
+ \nCron running on time : 2015-07-02 01:30:01 
+
+ \nCron running on time : 2015-07-02 02:00:01 
+
+ \nCron running on time : 2015-07-02 02:30:01 
+
+ \nCron running on time : 2015-07-02 03:00:01 
+
+ \nCron running on time : 2015-07-02 03:30:01 
+
+ \nCron running on time : 2015-07-02 04:00:01 
+
+ \nCron running on time : 2015-07-02 04:30:01 
+
+ \nCron running on time : 2015-07-02 05:00:01 
+
+ \nCron running on time : 2015-07-02 05:30:01 
+
+ \nCron running on time : 2015-07-02 06:00:01 
+
+ \nCron running on time : 2015-07-02 06:30:02 
+
+ \nCron running on time : 2015-07-02 07:00:01 
+
+ \nCron running on time : 2015-07-02 07:30:01 
+
+ \nCron running on time : 2015-07-02 08:00:01 
+
+ \nCron running on time : 2015-07-02 08:30:01 
+
+ \nCron running on time : 2015-07-02 09:00:01 
+
+ \nCron running on time : 2015-07-02 09:30:02 
+
+ \nCron running on time : 2015-07-02 10:00:02 
+
+ \nCron running on time : 2015-07-02 10:30:01 
+
+ \nCron running on time : 2015-07-02 11:00:01 
+
+ \nCron running on time : 2015-07-02 11:30:02 
+
+ \nCron running on time : 2015-07-02 12:00:01 
+
+ \nCron running on time : 2015-07-02 12:30:02 
+
+ \nCron running on time : 2015-07-02 13:00:01 
+
+ \nCron running on time : 2015-07-02 13:30:06 
+
+ \nCron running on time : 2015-07-02 14:00:02 
+ Device List :-  User:66 :- d8d7e3628a862e1fb3d50edb8152a4266d9d620afd69f571232e4120ddd55726 ,  User:60 :- APA91bHcqH0ifIkQK1lt9LAl25zLyeNDIajA9Za4X2VhviRFD7sF2a2HCBvf7YM5lRZ9yz8vS5UOc5ribvxvUKZKkeRahMq-VATU68JIOpHYfKC-wZuT1kwmsH2rNgD0ygJmo7CJYULIx156UP9bVc8EAJde9y7cqw , 
+ \nCron running on time : 2015-07-02 14:30:01 
+
+ \nCron running on time : 2015-07-02 15:00:02 
+
+ \nCron running on time : 2015-07-02 15:30:02 
+
+ \nCron running on time : 2015-07-02 16:00:03 
+
+ \nCron running on time : 2015-07-02 16:30:02 
+
+ \nCron running on time : 2015-07-02 17:00:01 
+
+ \nCron running on time : 2015-07-02 17:30:01 
+
+ \nCron running on time : 2015-07-02 18:00:01 
+
+ \nCron running on time : 2015-07-02 18:30:02 
+
+ \nCron running on time : 2015-07-02 19:00:07 
+
+ \nCron running on time : 2015-07-02 19:30:01 
+
+ \nCron running on time : 2015-07-02 20:00:06 
+
+ \nCron running on time : 2015-07-02 20:30:01 
+
+ \nCron running on time : 2015-07-02 21:00:01 
+
+ \nCron running on time : 2015-07-02 21:30:02 
+
+ \nCron running on time : 2015-07-02 22:00:01 
+
+ \nCron running on time : 2015-07-02 22:30:02 
+
+ \nCron running on time : 2015-07-02 23:00:02 
+
+ \nCron running on time : 2015-07-02 23:30:02 
+
+ \n

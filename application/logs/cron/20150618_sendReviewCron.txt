@@ -1,0 +1,97 @@
+Cron running on time : 2015-06-18 00:00:01 
+
+ \nCron running on time : 2015-06-18 00:30:01 
+
+ \nCron running on time : 2015-06-18 01:00:06 
+
+ \nCron running on time : 2015-06-18 01:30:02 
+
+ \nCron running on time : 2015-06-18 02:00:01 
+
+ \nCron running on time : 2015-06-18 02:30:01 
+
+ \nCron running on time : 2015-06-18 03:00:01 
+
+ \nCron running on time : 2015-06-18 03:30:02 
+
+ \nCron running on time : 2015-06-18 04:00:01 
+
+ \nCron running on time : 2015-06-18 04:30:01 
+
+ \nCron running on time : 2015-06-18 05:00:01 
+
+ \nCron running on time : 2015-06-18 05:30:01 
+
+ \nCron running on time : 2015-06-18 06:00:02 
+
+ \nCron running on time : 2015-06-18 06:30:01 
+
+ \nCron running on time : 2015-06-18 07:00:02 
+
+ \nCron running on time : 2015-06-18 07:30:01 
+
+ \nCron running on time : 2015-06-18 08:00:02 
+
+ \nCron running on time : 2015-06-18 08:30:01 
+
+ \nCron running on time : 2015-06-18 09:00:01 
+
+ \nCron running on time : 2015-06-18 09:30:01 
+
+ \nCron running on time : 2015-06-18 10:00:01 
+
+ \nCron running on time : 2015-06-18 10:30:06 
+
+ \nCron running on time : 2015-06-18 11:00:02 
+
+ \nCron running on time : 2015-06-18 11:30:02 
+
+ \nCron running on time : 2015-06-18 12:00:01 
+
+ \nCron running on time : 2015-06-18 12:30:02 
+
+ \nCron running on time : 2015-06-18 13:00:01 
+
+ \nCron running on time : 2015-06-18 13:30:01 
+
+ \nCron running on time : 2015-06-18 14:00:01 
+
+ \nCron running on time : 2015-06-18 14:30:01 
+
+ \nCron running on time : 2015-06-18 15:00:01 
+
+ \nCron running on time : 2015-06-18 15:30:01 
+
+ \nCron running on time : 2015-06-18 16:00:01 
+
+ \nCron running on time : 2015-06-18 16:30:01 
+
+ \nCron running on time : 2015-06-18 17:00:01 
+
+ \nCron running on time : 2015-06-18 17:30:07 
+
+ \nCron running on time : 2015-06-18 18:00:06 
+
+ \nCron running on time : 2015-06-18 18:30:01 
+
+ \nCron running on time : 2015-06-18 19:00:02 
+
+ \nCron running on time : 2015-06-18 19:30:01 
+
+ \nCron running on time : 2015-06-18 20:00:01 
+ Device List :-  User:59 :- APA91bFWXqGmOk0ALKUmPOg0DfmWep-Gc5_0dQboAQ1O-r_tHC4kFfZruPumBYUs3q_8f-xmn1uQFhrCgSZnSBSGLyVtr_yHD0aqdcu5rXyz8JMh9Mi9rugvyWjt6FOj_XY13RMPn-n9oHWsyqqu3MZGI1SIssu_R1f3YF3hzq4emxm1XFI1Nws ,  User:56 :- APA91bEViZ9g4EXWqF-PxqgjwTyq8sf-aUbxR5qrADpml82T3UquBpSlMJs65w0kxMtQ26j77ws2TYu4OjbIk1y5qoA4jkvBHVyhQ74UG2c-hdpriRWK3ilvLwxSgyL5O6ALGLhOAW0bOMwBglIeWKUypuMGomSDPXHAyG9NGW5gioxBhMyM-3g , 
+ \nCron running on time : 2015-06-18 20:30:01 
+
+ \nCron running on time : 2015-06-18 21:00:02 
+
+ \nCron running on time : 2015-06-18 21:30:01 
+
+ \nCron running on time : 2015-06-18 22:00:01 
+
+ \nCron running on time : 2015-06-18 22:30:02 
+
+ \nCron running on time : 2015-06-18 23:00:02 
+
+ \nCron running on time : 2015-06-18 23:30:01 
+
+ \n

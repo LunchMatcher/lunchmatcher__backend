@@ -1,0 +1,216 @@
+Cron running on time : 2015-06-30 00:00:01 
+
+
+Cron running on time : 2015-06-30 00:15:01 
+
+
+Cron running on time : 2015-06-30 00:30:02 
+
+
+Cron running on time : 2015-06-30 00:45:01 
+
+
+Cron running on time : 2015-06-30 01:00:01 
+
+
+Cron running on time : 2015-06-30 01:15:01 
+
+
+Cron running on time : 2015-06-30 01:30:02 
+
+
+Cron running on time : 2015-06-30 01:45:01 
+
+
+Cron running on time : 2015-06-30 02:00:01 
+
+
+Cron running on time : 2015-06-30 02:15:01 
+
+
+Cron running on time : 2015-06-30 02:30:02 
+
+
+Cron running on time : 2015-06-30 02:45:01 
+
+
+Cron running on time : 2015-06-30 03:00:01 
+
+
+Cron running on time : 2015-06-30 03:15:01 
+
+
+Cron running on time : 2015-06-30 03:30:02 
+
+
+Cron running on time : 2015-06-30 03:45:01 
+
+
+Cron running on time : 2015-06-30 04:00:01 
+
+
+Cron running on time : 2015-06-30 04:15:01 
+
+
+Cron running on time : 2015-06-30 04:30:02 
+
+
+Cron running on time : 2015-06-30 04:45:01 
+
+
+Cron running on time : 2015-06-30 05:00:01 
+
+
+Cron running on time : 2015-06-30 05:15:01 
+
+
+Cron running on time : 2015-06-30 05:30:02 
+
+
+Cron running on time : 2015-06-30 05:45:01 
+
+
+Cron running on time : 2015-06-30 06:00:01 
+
+
+Cron running on time : 2015-06-30 06:15:01 
+
+
+Cron running on time : 2015-06-30 06:30:02 
+
+
+Cron running on time : 2015-06-30 06:45:01 
+
+
+Cron running on time : 2015-06-30 07:00:01 
+
+
+Cron running on time : 2015-06-30 07:15:02 
+
+
+Cron running on time : 2015-06-30 07:30:02 
+
+
+Cron running on time : 2015-06-30 07:45:01 
+
+
+Cron running on time : 2015-06-30 08:00:01 
+
+
+Cron running on time : 2015-06-30 08:15:02 
+
+
+Cron running on time : 2015-06-30 08:30:01 
+
+
+Cron running on time : 2015-06-30 08:45:01 
+
+
+Cron running on time : 2015-06-30 09:00:02 
+ Device List :-  User:60 :- APA91bHcqH0ifIkQK1lt9LAl25zLyeNDIajA9Za4X2VhviRFD7sF2a2HCBvf7YM5lRZ9yz8vS5UOc5ribvxvUKZKkeRahMq-VATU68JIOpHYfKC-wZuT1kwmsH2rNgD0ygJmo7CJYULIx156UP9bVc8EAJde9y7cqw ,  User:67 :- APA91bHX4Sj1RXMssTAzUFDeEMp4Is-HUbUuiEsUG5gBbmk9nLATq4Y5-3xjRp7ZmLetGCdC733coYl24cmEiF2yWjiTWwojR74uVQxAOusho9SQ0MouX_DQXCoMfj7aHNhqu46mCqlNT0-ikWor0nM7QlYw-qEFow , 
+
+Cron running on time : 2015-06-30 09:15:02 
+
+
+Cron running on time : 2015-06-30 09:30:02 
+
+
+Cron running on time : 2015-06-30 09:45:01 
+
+
+Cron running on time : 2015-06-30 10:01:54 
+ Device List :-  User:60 :- APA91bHcqH0ifIkQK1lt9LAl25zLyeNDIajA9Za4X2VhviRFD7sF2a2HCBvf7YM5lRZ9yz8vS5UOc5ribvxvUKZKkeRahMq-VATU68JIOpHYfKC-wZuT1kwmsH2rNgD0ygJmo7CJYULIx156UP9bVc8EAJde9y7cqw ,  User:55 :- APA91bFO3tPATioHlJ4uud6sHPZtI1FxhoNk3DnEOcJ_MKfhRs_mpY67hckLWt1yOzDF9s9zVvgcwqdKpz7nAf1KTmdFN-lSRepJCVd44VzW3XnOSSnbyBuB-u52_02iOuvovtU1qZW7rMqHxvd4WKKGyloDAknNnA , 
+
+Cron running on time : 2015-06-30 10:02:28 
+ Device List :-  User:55 :- APA91bFO3tPATioHlJ4uud6sHPZtI1FxhoNk3DnEOcJ_MKfhRs_mpY67hckLWt1yOzDF9s9zVvgcwqdKpz7nAf1KTmdFN-lSRepJCVd44VzW3XnOSSnbyBuB-u52_02iOuvovtU1qZW7rMqHxvd4WKKGyloDAknNnA ,  User:67 :- APA91bHX4Sj1RXMssTAzUFDeEMp4Is-HUbUuiEsUG5gBbmk9nLATq4Y5-3xjRp7ZmLetGCdC733coYl24cmEiF2yWjiTWwojR74uVQxAOusho9SQ0MouX_DQXCoMfj7aHNhqu46mCqlNT0-ikWor0nM7QlYw-qEFow , 
+
+Cron running on time : 2015-06-30 10:15:02 
+
+
+Cron running on time : 2015-06-30 10:45:02 
+
+
+Cron running on time : 2015-06-30 10:47:27 
+
+
+Cron running on time : 2015-06-30 10:53:04 
+ Device List :-  User:66 :- d8d7e3628a862e1fb3d50edb8152a4266d9d620afd69f571232e4120ddd55726 ,  User:60 :- APA91bHcqH0ifIkQK1lt9LAl25zLyeNDIajA9Za4X2VhviRFD7sF2a2HCBvf7YM5lRZ9yz8vS5UOc5ribvxvUKZKkeRahMq-VATU68JIOpHYfKC-wZuT1kwmsH2rNgD0ygJmo7CJYULIx156UP9bVc8EAJde9y7cqw , 
+
+Cron running on time : 2015-06-30 11:00:03 
+ Device List :-  User:66 :- d8d7e3628a862e1fb3d50edb8152a4266d9d620afd69f571232e4120ddd55726 ,  User:67 :- APA91bHX4Sj1RXMssTAzUFDeEMp4Is-HUbUuiEsUG5gBbmk9nLATq4Y5-3xjRp7ZmLetGCdC733coYl24cmEiF2yWjiTWwojR74uVQxAOusho9SQ0MouX_DQXCoMfj7aHNhqu46mCqlNT0-ikWor0nM7QlYw-qEFow ,  User:60 :- APA91bHcqH0ifIkQK1lt9LAl25zLyeNDIajA9Za4X2VhviRFD7sF2a2HCBvf7YM5lRZ9yz8vS5UOc5ribvxvUKZKkeRahMq-VATU68JIOpHYfKC-wZuT1kwmsH2rNgD0ygJmo7CJYULIx156UP9bVc8EAJde9y7cqw ,  User:55 :- APA91bFO3tPATioHlJ4uud6sHPZtI1FxhoNk3DnEOcJ_MKfhRs_mpY67hckLWt1yOzDF9s9zVvgcwqdKpz7nAf1KTmdFN-lSRepJCVd44VzW3XnOSSnbyBuB-u52_02iOuvovtU1qZW7rMqHxvd4WKKGyloDAknNnA , 
+
+Cron running on time : 2015-06-30 11:15:02 
+
+
+Cron running on time : 2015-06-30 11:30:03 
+ Device List :-  User:66 :- d8d7e3628a862e1fb3d50edb8152a4266d9d620afd69f571232e4120ddd55726 ,  User:55 :- APA91bFO3tPATioHlJ4uud6sHPZtI1FxhoNk3DnEOcJ_MKfhRs_mpY67hckLWt1yOzDF9s9zVvgcwqdKpz7nAf1KTmdFN-lSRepJCVd44VzW3XnOSSnbyBuB-u52_02iOuvovtU1qZW7rMqHxvd4WKKGyloDAknNnA , 
+
+Cron running on time : 2015-06-30 11:45:02 
+
+
+Cron running on time : 2015-06-30 12:00:01 
+
+
+Cron running on time : 2015-06-30 12:15:01 
+
+
+Cron running on time : 2015-06-30 12:30:01 
+
+
+Cron running on time : 2015-06-30 12:45:01 
+
+
+Cron running on time : 2015-06-30 13:00:02 
+
+
+Cron running on time : 2015-06-30 13:15:01 
+
+
+Cron running on time : 2015-06-30 13:30:01 
+
+
+Cron running on time : 2015-06-30 13:45:01 
+
+
+Cron running on time : 2015-06-30 14:00:02 
+
+
+Cron running on time : 2015-06-30 14:15:02 
+
+
+Cron running on time : 2015-06-30 21:00:02 
+
+
+Cron running on time : 2015-06-30 21:15:02 
+
+
+Cron running on time : 2015-06-30 21:30:06 
+
+
+Cron running on time : 2015-06-30 21:45:01 
+
+
+Cron running on time : 2015-06-30 22:00:01 
+
+
+Cron running on time : 2015-06-30 22:15:01 
+
+
+Cron running on time : 2015-06-30 22:30:02 
+
+
+Cron running on time : 2015-06-30 22:45:01 
+
+
+Cron running on time : 2015-06-30 23:00:01 
+
+
+Cron running on time : 2015-06-30 23:15:01 
+
+
+Cron running on time : 2015-06-30 23:30:01 
+
+
+Cron running on time : 2015-06-30 23:45:01 
+
+

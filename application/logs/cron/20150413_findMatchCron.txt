@@ -1,0 +1,288 @@
+Cron running on time : 2015-04-13 00:00:01 
+
+
+Cron running on time : 2015-04-13 00:15:01 
+
+
+Cron running on time : 2015-04-13 00:30:01 
+
+
+Cron running on time : 2015-04-13 00:45:02 
+
+
+Cron running on time : 2015-04-13 01:00:01 
+
+
+Cron running on time : 2015-04-13 01:15:01 
+
+
+Cron running on time : 2015-04-13 01:30:01 
+
+
+Cron running on time : 2015-04-13 01:45:02 
+
+
+Cron running on time : 2015-04-13 02:00:01 
+
+
+Cron running on time : 2015-04-13 02:15:01 
+
+
+Cron running on time : 2015-04-13 02:30:01 
+
+
+Cron running on time : 2015-04-13 02:45:01 
+
+
+Cron running on time : 2015-04-13 03:00:01 
+
+
+Cron running on time : 2015-04-13 03:15:01 
+
+
+Cron running on time : 2015-04-13 03:30:01 
+
+
+Cron running on time : 2015-04-13 03:45:01 
+
+
+Cron running on time : 2015-04-13 04:00:02 
+
+
+Cron running on time : 2015-04-13 04:15:01 
+
+
+Cron running on time : 2015-04-13 04:30:01 
+
+
+Cron running on time : 2015-04-13 04:45:01 
+
+
+Cron running on time : 2015-04-13 05:00:02 
+
+
+Cron running on time : 2015-04-13 05:15:01 
+
+
+Cron running on time : 2015-04-13 05:30:01 
+
+
+Cron running on time : 2015-04-13 05:45:01 
+
+
+Cron running on time : 2015-04-13 06:00:02 
+
+
+Cron running on time : 2015-04-13 06:15:01 
+
+
+Cron running on time : 2015-04-13 06:30:01 
+
+
+Cron running on time : 2015-04-13 06:45:01 
+
+
+Cron running on time : 2015-04-13 07:00:02 
+
+
+Cron running on time : 2015-04-13 07:15:01 
+
+
+Cron running on time : 2015-04-13 07:30:01 
+
+
+Cron running on time : 2015-04-13 07:45:01 
+
+
+Cron running on time : 2015-04-13 08:00:01 
+
+
+Cron running on time : 2015-04-13 08:15:01 
+
+
+Cron running on time : 2015-04-13 08:30:01 
+
+
+Cron running on time : 2015-04-13 08:45:01 
+
+
+Cron running on time : 2015-04-13 09:00:01 
+
+
+Cron running on time : 2015-04-13 09:15:01 
+
+
+Cron running on time : 2015-04-13 09:30:01 
+
+
+Cron running on time : 2015-04-13 09:45:01 
+
+
+Cron running on time : 2015-04-13 10:00:01 
+
+
+Cron running on time : 2015-04-13 10:15:02 
+
+
+Cron running on time : 2015-04-13 10:30:01 
+
+
+Cron running on time : 2015-04-13 10:45:01 
+
+
+Cron running on time : 2015-04-13 11:00:01 
+
+
+Cron running on time : 2015-04-13 11:15:02 
+
+
+Cron running on time : 2015-04-13 11:30:02 
+
+
+Cron running on time : 2015-04-13 11:45:01 
+
+
+Cron running on time : 2015-04-13 12:00:01 
+
+
+Cron running on time : 2015-04-13 12:15:02 
+
+
+Cron running on time : 2015-04-13 12:30:01 
+
+
+Cron running on time : 2015-04-13 12:45:06 
+
+
+Cron running on time : 2015-04-13 13:00:01 
+
+
+Cron running on time : 2015-04-13 13:15:06 
+
+
+Cron running on time : 2015-04-13 13:30:02 
+
+
+Cron running on time : 2015-04-13 13:45:01 
+
+
+Cron running on time : 2015-04-13 14:00:04 
+ Device List :-  User:57 :- APA91bHjHRMs1pcNqN0vvETOlpr5coaoHwRXczPwxbPfytx3PRb7SJRdJsY0T9IWBF3hBVzSUT-V-BQfeyLo_KXUX_5m3Abi35NjBhNzxPKMWvWujTs4j6SGgUfWKasPNaD3Nvm1xXhIcA4Ac6FpYEgNfqjAI34N-HGQ9oQ1bbvZdFW8QnSISVM ,  User:60 :- APA91bGv5IV5Nr1wG5LZM1nI5VEF3HOMCdkGUfMWBwZuD8NxT_s6LTcbqsrEQ5jciM4q1pSChzWJBqbi_-Gq25GSl8sMwnAtIyVL3aCBLabwotsZ61dVRVtv7euzTze7cvbURCAE4tqcQ7bxcSZn8lDag8K5VymvmL4Imu480nhXa5P7Hi6gElo ,  User:55 :- APA91bHjBDPRavKNCP94YLGFEKR_yq0Glsj3-GH7M2PVx8pgjLOfvuVoZHcmlxwtSMIb4RNZw4-lp5oRV7M1iCsrBs__69MR7Q6zHZKmpLkhnhQDSfa_7HFXasydbx_-c2JlAGbyWdjEGgG6sZC1o7iyY_V81IfvvoDyIz1I90FMQWtyj4poNN0 ,  User:56 :- APA91bFskKLzPCUbCp7F9-Qm7IMVPix4lIl6_Eoi6ZNvayaCORluibF0P49L9K27-DNK5REtBRHQ9P_iWzS1gGhgYGI5q7_zZ31fU9sylw57s66_0KgER5B07YLpxzMpP_jTb7PA28MKnEHiBNHuUg0p6gESCAn9KZcjzpM8jYORluHd_CWDzuM ,  User:58 :- APA91bE4QzN4gFo4g_a5yQQEGYH1nGpfHIMOX9M39NLZBF61kZC-NiBWPFer5_zMwDk-ueY3_cZwl2MZNjy3WHgLc3rxVhK3fpNIo1LGsQU4Fd2xLqLRgRfeOfxt2ozYIqRDJ8iYptyz5RqZOtUdwWVl-vb_6pRr9rtCJCRyDWKfCUFtQn-Bi6U ,  User:54 :- APA91bGLX_31UwjPvZzx0zj665XnN6165msGrymrZoZTPAj2jTnbBUDNLkRb3HcjGCaw-La31fRodZof-Mw40QnWgTDJXxfcQ16l6MrdHFJR9Jqhj5gsGpAE6B5zw6bPJhFzqSyQ2Az2-Bco2rRjKsYO9k2Cky0SAZ6bxADKRgLDWAOn8l5TuPw , 
+
+Cron running on time : 2015-04-13 14:15:03 
+ Device List :-  User:57 :- APA91bHjHRMs1pcNqN0vvETOlpr5coaoHwRXczPwxbPfytx3PRb7SJRdJsY0T9IWBF3hBVzSUT-V-BQfeyLo_KXUX_5m3Abi35NjBhNzxPKMWvWujTs4j6SGgUfWKasPNaD3Nvm1xXhIcA4Ac6FpYEgNfqjAI34N-HGQ9oQ1bbvZdFW8QnSISVM ,  User:55 :- APA91bHjBDPRavKNCP94YLGFEKR_yq0Glsj3-GH7M2PVx8pgjLOfvuVoZHcmlxwtSMIb4RNZw4-lp5oRV7M1iCsrBs__69MR7Q6zHZKmpLkhnhQDSfa_7HFXasydbx_-c2JlAGbyWdjEGgG6sZC1o7iyY_V81IfvvoDyIz1I90FMQWtyj4poNN0 ,  User:60 :- APA91bGv5IV5Nr1wG5LZM1nI5VEF3HOMCdkGUfMWBwZuD8NxT_s6LTcbqsrEQ5jciM4q1pSChzWJBqbi_-Gq25GSl8sMwnAtIyVL3aCBLabwotsZ61dVRVtv7euzTze7cvbURCAE4tqcQ7bxcSZn8lDag8K5VymvmL4Imu480nhXa5P7Hi6gElo ,  User:56 :- APA91bEePvZ1sjSIQQjtPg-TOuhzlyIFX5dN8cuCaC2xKSU1MO2sOMDH1ZOnfcUFZx7sq3201KfeQ17Ma3b-tQa1_Q2236FyqGC0K15qAHLJcOm1d4F1vChm3gV2L1QJkuQ8DdNRIC70IMh41YCEJUtHLZIDIvG0T9z2ppG2FdYdK8jtTpYvXXU , 
+
+Cron running on time : 2015-04-13 14:30:03 
+ Device List :-  User:57 :- APA91bHjHRMs1pcNqN0vvETOlpr5coaoHwRXczPwxbPfytx3PRb7SJRdJsY0T9IWBF3hBVzSUT-V-BQfeyLo_KXUX_5m3Abi35NjBhNzxPKMWvWujTs4j6SGgUfWKasPNaD3Nvm1xXhIcA4Ac6FpYEgNfqjAI34N-HGQ9oQ1bbvZdFW8QnSISVM ,  User:59 :- APA91bGFcddBSvt_d385Wu_wvEM5kIlR-XrD87uWV12j82PddLwkqQCtRpgwjEtxtfcsulwXvn8qJSfApbDQq_bqJhy29kEbVT8BkVgzkMg9jeoV8y60--KBrk2aRKMRoisCMyha3bFiIJnbDwxnXZadDzGMYl2W_c-H01PoGwYrSK9icWrRr3M ,  User:60 :- APA91bGv5IV5Nr1wG5LZM1nI5VEF3HOMCdkGUfMWBwZuD8NxT_s6LTcbqsrEQ5jciM4q1pSChzWJBqbi_-Gq25GSl8sMwnAtIyVL3aCBLabwotsZ61dVRVtv7euzTze7cvbURCAE4tqcQ7bxcSZn8lDag8K5VymvmL4Imu480nhXa5P7Hi6gElo ,  User:55 :- APA91bHjBDPRavKNCP94YLGFEKR_yq0Glsj3-GH7M2PVx8pgjLOfvuVoZHcmlxwtSMIb4RNZw4-lp5oRV7M1iCsrBs__69MR7Q6zHZKmpLkhnhQDSfa_7HFXasydbx_-c2JlAGbyWdjEGgG6sZC1o7iyY_V81IfvvoDyIz1I90FMQWtyj4poNN0 ,  User:56 :- APA91bEePvZ1sjSIQQjtPg-TOuhzlyIFX5dN8cuCaC2xKSU1MO2sOMDH1ZOnfcUFZx7sq3201KfeQ17Ma3b-tQa1_Q2236FyqGC0K15qAHLJcOm1d4F1vChm3gV2L1QJkuQ8DdNRIC70IMh41YCEJUtHLZIDIvG0T9z2ppG2FdYdK8jtTpYvXXU ,  User:58 :- APA91bE4QzN4gFo4g_a5yQQEGYH1nGpfHIMOX9M39NLZBF61kZC-NiBWPFer5_zMwDk-ueY3_cZwl2MZNjy3WHgLc3rxVhK3fpNIo1LGsQU4Fd2xLqLRgRfeOfxt2ozYIqRDJ8iYptyz5RqZOtUdwWVl-vb_6pRr9rtCJCRyDWKfCUFtQn-Bi6U , 
+
+Cron running on time : 2015-04-13 14:45:02 
+ Device List :-  User:59 :- APA91bGFcddBSvt_d385Wu_wvEM5kIlR-XrD87uWV12j82PddLwkqQCtRpgwjEtxtfcsulwXvn8qJSfApbDQq_bqJhy29kEbVT8BkVgzkMg9jeoV8y60--KBrk2aRKMRoisCMyha3bFiIJnbDwxnXZadDzGMYl2W_c-H01PoGwYrSK9icWrRr3M ,  User:60 :- APA91bGv5IV5Nr1wG5LZM1nI5VEF3HOMCdkGUfMWBwZuD8NxT_s6LTcbqsrEQ5jciM4q1pSChzWJBqbi_-Gq25GSl8sMwnAtIyVL3aCBLabwotsZ61dVRVtv7euzTze7cvbURCAE4tqcQ7bxcSZn8lDag8K5VymvmL4Imu480nhXa5P7Hi6gElo ,  User:57 :- APA91bHjHRMs1pcNqN0vvETOlpr5coaoHwRXczPwxbPfytx3PRb7SJRdJsY0T9IWBF3hBVzSUT-V-BQfeyLo_KXUX_5m3Abi35NjBhNzxPKMWvWujTs4j6SGgUfWKasPNaD3Nvm1xXhIcA4Ac6FpYEgNfqjAI34N-HGQ9oQ1bbvZdFW8QnSISVM ,  User:56 :- APA91bEePvZ1sjSIQQjtPg-TOuhzlyIFX5dN8cuCaC2xKSU1MO2sOMDH1ZOnfcUFZx7sq3201KfeQ17Ma3b-tQa1_Q2236FyqGC0K15qAHLJcOm1d4F1vChm3gV2L1QJkuQ8DdNRIC70IMh41YCEJUtHLZIDIvG0T9z2ppG2FdYdK8jtTpYvXXU ,  User:55 :- APA91bHjBDPRavKNCP94YLGFEKR_yq0Glsj3-GH7M2PVx8pgjLOfvuVoZHcmlxwtSMIb4RNZw4-lp5oRV7M1iCsrBs__69MR7Q6zHZKmpLkhnhQDSfa_7HFXasydbx_-c2JlAGbyWdjEGgG6sZC1o7iyY_V81IfvvoDyIz1I90FMQWtyj4poNN0 ,  User:58 :- APA91bE4QzN4gFo4g_a5yQQEGYH1nGpfHIMOX9M39NLZBF61kZC-NiBWPFer5_zMwDk-ueY3_cZwl2MZNjy3WHgLc3rxVhK3fpNIo1LGsQU4Fd2xLqLRgRfeOfxt2ozYIqRDJ8iYptyz5RqZOtUdwWVl-vb_6pRr9rtCJCRyDWKfCUFtQn-Bi6U , 
+
+Cron running on time : 2015-04-13 15:00:01 
+
+
+Cron running on time : 2015-04-13 15:15:01 
+
+
+Cron running on time : 2015-04-13 15:30:01 
+
+
+Cron running on time : 2015-04-13 15:45:01 
+
+
+Cron running on time : 2015-04-13 16:00:01 
+
+
+Cron running on time : 2015-04-13 16:15:01 
+
+
+Cron running on time : 2015-04-13 16:30:01 
+
+
+Cron running on time : 2015-04-13 16:45:06 
+
+
+Cron running on time : 2015-04-13 17:00:01 
+
+
+Cron running on time : 2015-04-13 17:15:01 
+
+
+Cron running on time : 2015-04-13 17:30:01 
+
+
+Cron running on time : 2015-04-13 17:45:01 
+
+
+Cron running on time : 2015-04-13 18:00:02 
+
+
+Cron running on time : 2015-04-13 18:15:02 
+
+
+Cron running on time : 2015-04-13 18:30:01 
+
+
+Cron running on time : 2015-04-13 18:45:01 
+
+
+Cron running on time : 2015-04-13 19:00:02 
+
+
+Cron running on time : 2015-04-13 19:15:01 
+
+
+Cron running on time : 2015-04-13 19:30:02 
+
+
+Cron running on time : 2015-04-13 19:45:01 
+
+
+Cron running on time : 2015-04-13 20:00:01 
+
+
+Cron running on time : 2015-04-13 20:15:01 
+
+
+Cron running on time : 2015-04-13 20:30:02 
+
+
+Cron running on time : 2015-04-13 20:45:01 
+
+
+Cron running on time : 2015-04-13 21:00:02 
+
+
+Cron running on time : 2015-04-13 21:15:01 
+
+
+Cron running on time : 2015-04-13 21:30:01 
+
+
+Cron running on time : 2015-04-13 21:45:02 
+
+
+Cron running on time : 2015-04-13 22:00:01 
+
+
+Cron running on time : 2015-04-13 22:15:01 
+
+
+Cron running on time : 2015-04-13 22:30:01 
+
+
+Cron running on time : 2015-04-13 22:45:01 
+
+
+Cron running on time : 2015-04-13 23:00:01 
+
+
+Cron running on time : 2015-04-13 23:15:01 
+
+
+Cron running on time : 2015-04-13 23:30:01 
+
+
+Cron running on time : 2015-04-13 23:45:02 
+
+

@@ -1,0 +1,97 @@
+Cron running on time : 2015-04-16 00:00:01 
+
+ \nCron running on time : 2015-04-16 00:30:02 
+
+ \nCron running on time : 2015-04-16 01:00:01 
+
+ \nCron running on time : 2015-04-16 01:30:01 
+
+ \nCron running on time : 2015-04-16 02:00:01 
+
+ \nCron running on time : 2015-04-16 02:30:02 
+
+ \nCron running on time : 2015-04-16 03:00:01 
+
+ \nCron running on time : 2015-04-16 03:30:01 
+
+ \nCron running on time : 2015-04-16 04:00:01 
+
+ \nCron running on time : 2015-04-16 04:30:01 
+
+ \nCron running on time : 2015-04-16 05:00:01 
+
+ \nCron running on time : 2015-04-16 05:30:01 
+
+ \nCron running on time : 2015-04-16 06:00:02 
+
+ \nCron running on time : 2015-04-16 06:30:01 
+
+ \nCron running on time : 2015-04-16 07:00:01 
+
+ \nCron running on time : 2015-04-16 07:30:02 
+
+ \nCron running on time : 2015-04-16 08:00:01 
+
+ \nCron running on time : 2015-04-16 08:30:01 
+
+ \nCron running on time : 2015-04-16 09:00:01 
+
+ \nCron running on time : 2015-04-16 09:30:01 
+
+ \nCron running on time : 2015-04-16 10:00:01 
+
+ \nCron running on time : 2015-04-16 10:30:02 
+
+ \nCron running on time : 2015-04-16 11:00:01 
+
+ \nCron running on time : 2015-04-16 11:30:02 
+
+ \nCron running on time : 2015-04-16 12:00:01 
+
+ \nCron running on time : 2015-04-16 12:30:01 
+
+ \nCron running on time : 2015-04-16 13:00:02 
+
+ \nCron running on time : 2015-04-16 13:30:01 
+
+ \nCron running on time : 2015-04-16 14:00:07 
+
+ \nCron running on time : 2015-04-16 14:30:02 
+
+ \nCron running on time : 2015-04-16 15:00:06 
+
+ \nCron running on time : 2015-04-16 15:30:01 
+
+ \nCron running on time : 2015-04-16 16:00:02 
+ Device List :-  User:59 :- APA91bHcYwl3VvWDZeXrXQRNxnUCDSLCO7ubI3eG4IF1nReWyHn-8KUNyRLHNR73ApufDNmPAd3q3DCw8SPtlQlw06j6IZnlBz_O2fba9AwEWUdau1BD_ggBbypVcXQFQ-x68A8klIQYWH1yqpjTE4-Hq8iD_BwfrLdY8oFmushkP8ez_dpsXvE ,  User:58 :- APA91bGxk7o0YbpKmQoXmf6MNGyUnr5DH-BWLZ3yYafN4ZZDPofj_5nwsHDDMw30qjyOziJijy7fn-GxBZoRfYMlnvumZ1NlprDrCX9eGRSW0AJP3wPpTn_pYVjEJ12mTcE2-6Zjh8ttRDcHIVGQ9lE11xfGFWtSftTFp4M1wtqQp7D9ryDAvXc ,  User:55 :- APA91bFD7H7yqnnnArhbmagRbOHODw9xXhPUDU5sxLjchk2sNTYvBh5fWw8G0tonAhz0K88drG3D8HwgL0dBxXFrViaz1xSfJZub0BqIEnLsv5r5xhcthLKLzE0KJrDwCl2yiL_CO4BIFcXrGcb_ejrxbrKZTGc8MELc-GLbBJdVj1PbbI8o4zE ,  User:54 :- APA91bGetsFAkDdS5PNaWkwGa5FpTLkqaKwvNyGdJst9SFsskFgpBxvozvo0IBlAJyRD4j871ia01JPzh-L8a2HmINFft_VfI3oE6jdhj7iAeY2nyknC1Asbe6JsV9qsp9_EZaDsr1Gm05ztgzB1R9avHKobEGVVbCE9b9uuiQ2H9gJ22uJ5JJc , 
+ \nCron running on time : 2015-04-16 16:30:06 
+
+ \nCron running on time : 2015-04-16 17:00:02 
+
+ \nCron running on time : 2015-04-16 17:30:01 
+
+ \nCron running on time : 2015-04-16 18:00:01 
+
+ \nCron running on time : 2015-04-16 18:30:01 
+
+ \nCron running on time : 2015-04-16 19:00:01 
+
+ \nCron running on time : 2015-04-16 19:30:01 
+
+ \nCron running on time : 2015-04-16 20:00:01 
+
+ \nCron running on time : 2015-04-16 20:30:01 
+
+ \nCron running on time : 2015-04-16 21:00:01 
+
+ \nCron running on time : 2015-04-16 21:30:02 
+
+ \nCron running on time : 2015-04-16 22:00:01 
+
+ \nCron running on time : 2015-04-16 22:30:01 
+
+ \nCron running on time : 2015-04-16 23:00:02 
+
+ \nCron running on time : 2015-04-16 23:30:01 
+
+ \n
